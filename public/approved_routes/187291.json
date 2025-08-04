@@ -1,0 +1,247 @@
+{
+  "customer_code": "187291",
+  "name": "SONDHI RAM GIAN CHAND",
+  "route": [
+    [
+      30.2143,
+      75.8614
+    ],
+    [
+      30.21017,
+      75.86459
+    ],
+    [
+      30.22107,
+      75.85541
+    ],
+    [
+      30.22295,
+      75.85911
+    ],
+    [
+      30.30113,
+      76.42105
+    ],
+    [
+      30.30408,
+      76.42361
+    ],
+    [
+      30.32005,
+      76.41657
+    ],
+    [
+      30.32006,
+      76.417
+    ],
+    [
+      30.31986,
+      76.41681
+    ],
+    [
+      30.29924,
+      76.42548
+    ],
+    [
+      30.29914,
+      76.42513
+    ]
+  ],
+  "alerts": [],
+  "places": {
+    "hospital": [
+      {
+        "place_name": "Ashu Nursing Home",
+        "address": "near badi Nadi, Devigarh Road, Sanour, chowk, Patiala",
+        "place_lat": 30.31893,
+        "place_lon": 76.41748
+      },
+      {
+        "place_name": "Mata Gujri Nursing Home",
+        "address": "Devigarh sanaur road chowk Chotta, Arai Majra",
+        "place_lat": 30.3188,
+        "place_lon": 76.41778
+      },
+      {
+        "place_name": "Dr Poonam's Clinic",
+        "address": "near sanouri adda, C-1, Tej Bagh Colony, Patiala",
+        "place_lat": 30.32407,
+        "place_lon": 76.41533
+      },
+      {
+        "place_name": "Ashu Nursing Home",
+        "address": "near badi Nadi, Devigarh Road, Sanour, chowk, Patiala",
+        "place_lat": 30.31893,
+        "place_lon": 76.41748
+      },
+      {
+        "place_name": "Mata Gujri Nursing Home",
+        "address": "Devigarh sanaur road chowk Chotta, Arai Majra",
+        "place_lat": 30.3188,
+        "place_lon": 76.41778
+      },
+      {
+        "place_name": "Dr Poonam's Clinic",
+        "address": "near sanouri adda, C-1, Tej Bagh Colony, Patiala",
+        "place_lat": 30.32407,
+        "place_lon": 76.41533
+      },
+      {
+        "place_name": "Ashu Nursing Home",
+        "address": "near badi Nadi, Devigarh Road, Sanour, chowk, Patiala",
+        "place_lat": 30.31893,
+        "place_lon": 76.41748
+      },
+      {
+        "place_name": "Mata Gujri Nursing Home",
+        "address": "Devigarh sanaur road chowk Chotta, Arai Majra",
+        "place_lat": 30.3188,
+        "place_lon": 76.41778
+      },
+      {
+        "place_name": "Dr Poonam's Clinic",
+        "address": "near sanouri adda, C-1, Tej Bagh Colony, Patiala",
+        "place_lat": 30.32407,
+        "place_lon": 76.41533
+      },
+      {
+        "place_name": "Sahil Medical Hall",
+        "address": "Joreya Sarkha, Devigarh",
+        "place_lat": 30.29686,
+        "place_lon": 76.42756
+      },
+      {
+        "place_name": "Sahil Medical Hall",
+        "address": "Joreya Sarkha, Devigarh",
+        "place_lat": 30.29686,
+        "place_lon": 76.42756
+      }
+    ],
+    "gas_station": [
+      {
+        "place_name": "IndianOil",
+        "address": "Ground Floor, Kaithal Road, Bahera Road, Patiala",
+        "place_lat": 30.2991,
+        "place_lon": 76.42514
+      },
+      {
+        "place_name": "Loomba service station",
+        "address": "Rangesha Colony, Tej Bagh Colony, Patiala",
+        "place_lat": 30.32198,
+        "place_lon": 76.41395
+      },
+      {
+        "place_name": "IndianOil",
+        "address": "Ground Floor, Devigarh Road, Patiala",
+        "place_lat": 30.3166,
+        "place_lon": 76.4184
+      },
+      {
+        "place_name": "Loomba service station",
+        "address": "Rangesha Colony, Tej Bagh Colony, Patiala",
+        "place_lat": 30.32198,
+        "place_lon": 76.41395
+      },
+      {
+        "place_name": "IndianOil",
+        "address": "Ground Floor, Devigarh Road, Patiala",
+        "place_lat": 30.3166,
+        "place_lon": 76.4184
+      },
+      {
+        "place_name": "Loomba service station",
+        "address": "Rangesha Colony, Tej Bagh Colony, Patiala",
+        "place_lat": 30.32198,
+        "place_lon": 76.41395
+      },
+      {
+        "place_name": "IndianOil",
+        "address": "Ground Floor, Devigarh Road, Patiala",
+        "place_lat": 30.3166,
+        "place_lon": 76.4184
+      },
+      {
+        "place_name": "IndianOil",
+        "address": "Ground Floor, Kaithal Road, Bahera Road, Patiala",
+        "place_lat": 30.2991,
+        "place_lon": 76.42514
+      },
+      {
+        "place_name": "IndianOil",
+        "address": "Ground Floor, Kaithal Road, Bahera Road, Patiala",
+        "place_lat": 30.2991,
+        "place_lon": 76.42514
+      }
+    ],
+    "parking": [
+      {
+        "place_name": "Cheema & Lucky car Bazaar",
+        "address": "8C3F+6HR, State Highway 9, Patiala",
+        "place_lat": 30.30311,
+        "place_lon": 76.4239
+      },
+      {
+        "place_name": "Cheema & Lucky car Bazaar",
+        "address": "8C3F+6HR, State Highway 9, Patiala",
+        "place_lat": 30.30311,
+        "place_lon": 76.4239
+      },
+      {
+        "place_name": "Cheema & Lucky car Bazaar",
+        "address": "8C3F+6HR, State Highway 9, Patiala",
+        "place_lat": 30.30311,
+        "place_lon": 76.4239
+      },
+      {
+        "place_name": "Cheema & Lucky car Bazaar",
+        "address": "8C3F+6HR, State Highway 9, Patiala",
+        "place_lat": 30.30311,
+        "place_lon": 76.4239
+      }
+    ],
+    "puncture_shop": [
+      {
+        "place_name": "Star Tyres",
+        "address": "Shop no.3, Patiala - Devigarh Rd, near Gurudwara Nanaksar Sahib, Ghalori, Patiala",
+        "place_lat": 30.30307,
+        "place_lon": 76.42389
+      },
+      {
+        "place_name": "Star Tyres",
+        "address": "Shop no.3, Patiala - Devigarh Rd, near Gurudwara Nanaksar Sahib, Ghalori, Patiala",
+        "place_lat": 30.30307,
+        "place_lon": 76.42389
+      },
+      {
+        "place_name": "BEDROCK TYRES",
+        "address": "Badi nadi, Sanaur Rd, near jain park, Sunny Enclave, Patiala",
+        "place_lat": 30.31994,
+        "place_lon": 76.41659
+      },
+      {
+        "place_name": "BEDROCK TYRES",
+        "address": "Badi nadi, Sanaur Rd, near jain park, Sunny Enclave, Patiala",
+        "place_lat": 30.31994,
+        "place_lon": 76.41659
+      },
+      {
+        "place_name": "BEDROCK TYRES",
+        "address": "Badi nadi, Sanaur Rd, near jain park, Sunny Enclave, Patiala",
+        "place_lat": 30.31994,
+        "place_lon": 76.41659
+      },
+      {
+        "place_name": "Star Tyres",
+        "address": "Shop no.3, Patiala - Devigarh Rd, near Gurudwara Nanaksar Sahib, Ghalori, Patiala",
+        "place_lat": 30.30307,
+        "place_lon": 76.42389
+      },
+      {
+        "place_name": "Star Tyres",
+        "address": "Shop no.3, Patiala - Devigarh Rd, near Gurudwara Nanaksar Sahib, Ghalori, Patiala",
+        "place_lat": 30.30307,
+        "place_lon": 76.42389
+      }
+    ]
+  }
+}

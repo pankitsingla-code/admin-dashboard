@@ -1,0 +1,108 @@
+{
+  "customer_code": "187323",
+  "name": "KUKU FILLING STATION",
+  "route": [
+    [
+      30.21431,
+      75.86141
+    ],
+    [
+      30.21399,
+      75.86165
+    ],
+    [
+      30.21388,
+      75.86174
+    ],
+    [
+      30.21368,
+      75.86189
+    ],
+    [
+      30.21317,
+      75.86226
+    ],
+    [
+      30.21299,
+      75.86241
+    ],
+    [
+      30.21241,
+      75.86285
+    ],
+    [
+      30.21173,
+      75.86338
+    ],
+    [
+      30.21111,
+      75.86386
+    ],
+    [
+      30.21055,
+      75.86428
+    ],
+    [
+      30.21016,
+      75.86459
+    ],
+    [
+      30.20946,
+      75.86513
+    ],
+    [
+      30.20897,
+      75.86551
+    ],
+    [
+      30.2083,
+      75.86602
+    ],
+    [
+      30.20822,
+      75.86591
+    ],
+    [
+      30.2089,
+      75.8654
+    ],
+    [
+      30.20937,
+      75.86504
+    ],
+    [
+      30.20981,
+      75.86471
+    ]
+  ],
+  "alerts": [
+    {
+      "type": "sharp_turn",
+      "lat": 30.20822,
+      "lon": 75.86591,
+      "message": "Sharp Turn Ahead \u2013 Angle 180.4\u00b0"
+    },
+    {
+      "type": "blind_spot",
+      "lat": 30.208595,
+      "lon": 75.86571,
+      "message": "Blind Spot Ahead \u2013 Drive Carefully"
+    }
+  ],
+  "places": {
+    "gas_station": [
+      {
+        "place_name": "Hindustan",
+        "address": "Jind Road, Mehalan Road, Sangrur Depot",
+        "place_lat": 30.213,
+        "place_lon": 75.86274
+      },
+      {
+        "place_name": "IndianOil",
+        "address": "Ground Floor Patran Sangrur Road, Kheri, Badrukhan, Sangrur",
+        "place_lat": 30.20972,
+        "place_lon": 75.86453
+      }
+    ]
+  }
+}

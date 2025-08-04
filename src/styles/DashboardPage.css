@@ -1,0 +1,126 @@
+.dashboard-container {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0f4f8;
+  min-height: 100vh;
+}
+
+.dashboard-header {
+  background-color: #1976d2;
+  color: white;  
+  text-align: center;
+  position: relative;
+  border-bottom: 4px solid #1565c0;
+}
+
+.dashboard-titles {
+  margin-bottom: 15px;
+}
+
+.dashboard-title {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.dashboard-subtitle {
+  margin: 5px 0 0;
+  font-size: 1.2rem;
+  font-weight: normal;
+}
+
+.logout-button {
+  padding: 8px 16px;
+  background-color: #dc3545;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  
+}
+
+.logout-button:hover {
+  background-color: #b02a37;
+}
+
+.logout-container {
+  display: flex;
+  justify-content: flex-end; /* Aligns content to the right */
+  padding: 10px 20px; /* Optional: space around the button */
+}
+
+.date-picker {
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.date-picker input {
+  padding: 5px 10px;
+  font-size: 14px;
+  margin-left: 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.dashboard-main {
+  padding: 20px;
+}
+
+.titles {
+  text-align: center;
+  flex: 1;
+}
+.header-logo-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.iocl-logo {
+  height: 150px;
+  margin-right: -120px;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+/* Make modern buttons bigger */
+.button-modern {
+  font-size: 18px;
+  padding: 12px 24px;
+  border-radius: 12px;
+}
+
+/* Larger labels */
+.section label {
+  font-size: 18px;
+  font-weight: 500;
+  margin-right: 8px;
+}
+
+/* Larger dropdowns */
+.section select {
+  font-size: 16px;
+  padding: 10px 14px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  min-width: 250px;
+}
+
+
+.hot-stoppages-button {
+  font-size: 20px;
+  padding: 20px 28px;
+  border-radius: 14px;
+  background-color: #388e3c; /* optional: green color */
+  color: white;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;  
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  transition: all 0.25s ease;
+}
+
+.hot-stoppages-button:hover {
+  background-color: #2e7d32;
+  transform: translateY(-2px);
+}

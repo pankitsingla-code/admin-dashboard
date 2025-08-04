@@ -1,0 +1,960 @@
+{
+  "customer_code": "111077",
+  "name": "PREM FILLING STATION",
+  "route": [
+    [
+      30.21431,
+      75.86141
+    ],
+    [
+      30.21399,
+      75.86165
+    ],
+    [
+      30.21388,
+      75.86174
+    ],
+    [
+      30.21368,
+      75.86189
+    ],
+    [
+      30.21317,
+      75.86226
+    ],
+    [
+      30.21299,
+      75.86241
+    ],
+    [
+      30.21241,
+      75.86285
+    ],
+    [
+      30.21173,
+      75.86338
+    ],
+    [
+      30.21111,
+      75.86386
+    ],
+    [
+      30.21055,
+      75.86428
+    ],
+    [
+      30.21016,
+      75.86459
+    ],
+    [
+      30.2101,
+      75.86449
+    ],
+    [
+      30.21047,
+      75.8642
+    ],
+    [
+      30.21103,
+      75.86377
+    ],
+    [
+      30.21166,
+      75.86329
+    ],
+    [
+      30.21234,
+      75.86275
+    ],
+    [
+      30.21292,
+      75.86231
+    ],
+    [
+      30.21311,
+      75.86216
+    ],
+    [
+      30.21388,
+      75.86161
+    ],
+    [
+      30.21463,
+      75.861
+    ],
+    [
+      30.21509,
+      75.86065
+    ],
+    [
+      30.21556,
+      75.86024
+    ],
+    [
+      30.21601,
+      75.85992
+    ],
+    [
+      30.21695,
+      75.85923
+    ],
+    [
+      30.21755,
+      75.85881
+    ],
+    [
+      30.2176,
+      75.85878
+    ],
+    [
+      30.21779,
+      75.85863
+    ],
+    [
+      30.21794,
+      75.8585
+    ],
+    [
+      30.21811,
+      75.85834
+    ],
+    [
+      30.21832,
+      75.85814
+    ],
+    [
+      30.2184,
+      75.85804
+    ],
+    [
+      30.21898,
+      75.85739
+    ],
+    [
+      30.21975,
+      75.85656
+    ],
+    [
+      30.21988,
+      75.85644
+    ],
+    [
+      30.22012,
+      75.85621
+    ],
+    [
+      30.22079,
+      75.85562
+    ],
+    [
+      30.22095,
+      75.85551
+    ],
+    [
+      30.22107,
+      75.85541
+    ],
+    [
+      30.22123,
+      75.85536
+    ],
+    [
+      30.22149,
+      75.85515
+    ],
+    [
+      30.22179,
+      75.85484
+    ],
+    [
+      30.22195,
+      75.85467
+    ],
+    [
+      30.22216,
+      75.85448
+    ],
+    [
+      30.22266,
+      75.85402
+    ],
+    [
+      30.22307,
+      75.85361
+    ],
+    [
+      30.22339,
+      75.85332
+    ],
+    [
+      30.22383,
+      75.85279
+    ],
+    [
+      30.22443,
+      75.8522
+    ],
+    [
+      30.22488,
+      75.85176
+    ],
+    [
+      30.22599,
+      75.85068
+    ],
+    [
+      30.22709,
+      75.84964
+    ],
+    [
+      30.22719,
+      75.84954
+    ],
+    [
+      30.2277,
+      75.84902
+    ],
+    [
+      30.22773,
+      75.84899
+    ],
+    [
+      30.2283,
+      75.84841
+    ],
+    [
+      30.22833,
+      75.84838
+    ],
+    [
+      30.22849,
+      75.84822
+    ],
+    [
+      30.22896,
+      75.84777
+    ],
+    [
+      30.22902,
+      75.8477
+    ],
+    [
+      30.22986,
+      75.84685
+    ],
+    [
+      30.23009,
+      75.8466
+    ],
+    [
+      30.23022,
+      75.84648
+    ],
+    [
+      30.23049,
+      75.84621
+    ],
+    [
+      30.23074,
+      75.84596
+    ],
+    [
+      30.23194,
+      75.84474
+    ],
+    [
+      30.23206,
+      75.84462
+    ],
+    [
+      30.23226,
+      75.84442
+    ],
+    [
+      30.23251,
+      75.84416
+    ],
+    [
+      30.23269,
+      75.84398
+    ],
+    [
+      30.23294,
+      75.84372
+    ],
+    [
+      30.23305,
+      75.84361
+    ],
+    [
+      30.23337,
+      75.84327
+    ],
+    [
+      30.23349,
+      75.84315
+    ],
+    [
+      30.2339,
+      75.84273
+    ],
+    [
+      30.2343,
+      75.8423
+    ],
+    [
+      30.23437,
+      75.84223
+    ],
+    [
+      30.23451,
+      75.84208
+    ],
+    [
+      30.23478,
+      75.84181
+    ],
+    [
+      30.23509,
+      75.84148
+    ],
+    [
+      30.23526,
+      75.84131
+    ],
+    [
+      30.23562,
+      75.84094
+    ],
+    [
+      30.23583,
+      75.84072
+    ],
+    [
+      30.23641,
+      75.84012
+    ],
+    [
+      30.23663,
+      75.8399
+    ],
+    [
+      30.23685,
+      75.83965
+    ],
+    [
+      30.23694,
+      75.83956
+    ],
+    [
+      30.23699,
+      75.83949
+    ],
+    [
+      30.23719,
+      75.8393
+    ],
+    [
+      30.23722,
+      75.83927
+    ],
+    [
+      30.23749,
+      75.83898
+    ],
+    [
+      30.23765,
+      75.83882
+    ],
+    [
+      30.23778,
+      75.83866
+    ],
+    [
+      30.23806,
+      75.83832
+    ],
+    [
+      30.23818,
+      75.83816
+    ],
+    [
+      30.23831,
+      75.83796
+    ],
+    [
+      30.23836,
+      75.83791
+    ],
+    [
+      30.23842,
+      75.83785
+    ],
+    [
+      30.23849,
+      75.83776
+    ],
+    [
+      30.23852,
+      75.83771
+    ],
+    [
+      30.23851,
+      75.83769
+    ],
+    [
+      30.23851,
+      75.83766
+    ],
+    [
+      30.23851,
+      75.83763
+    ],
+    [
+      30.23852,
+      75.8376
+    ],
+    [
+      30.23853,
+      75.83758
+    ],
+    [
+      30.23854,
+      75.83756
+    ],
+    [
+      30.23856,
+      75.83755
+    ],
+    [
+      30.23858,
+      75.83754
+    ],
+    [
+      30.23861,
+      75.83752
+    ],
+    [
+      30.23871,
+      75.83741
+    ],
+    [
+      30.23882,
+      75.8373
+    ],
+    [
+      30.23899,
+      75.83712
+    ],
+    [
+      30.23907,
+      75.83708
+    ],
+    [
+      30.23974,
+      75.83621
+    ],
+    [
+      30.24008,
+      75.83583
+    ],
+    [
+      30.24028,
+      75.8356
+    ],
+    [
+      30.24048,
+      75.83536
+    ],
+    [
+      30.24057,
+      75.83527
+    ],
+    [
+      30.24077,
+      75.83507
+    ],
+    [
+      30.24087,
+      75.83497
+    ],
+    [
+      30.24098,
+      75.83488
+    ],
+    [
+      30.24116,
+      75.83473
+    ],
+    [
+      30.24125,
+      75.83467
+    ],
+    [
+      30.24132,
+      75.83461
+    ],
+    [
+      30.24144,
+      75.83452
+    ],
+    [
+      30.24154,
+      75.83447
+    ],
+    [
+      30.24165,
+      75.83441
+    ],
+    [
+      30.24181,
+      75.83433
+    ],
+    [
+      30.24191,
+      75.83429
+    ],
+    [
+      30.24235,
+      75.83409
+    ],
+    [
+      30.24246,
+      75.83404
+    ],
+    [
+      30.2425,
+      75.83403
+    ],
+    [
+      30.24285,
+      75.8339
+    ],
+    [
+      30.24297,
+      75.83386
+    ],
+    [
+      30.24311,
+      75.83381
+    ],
+    [
+      30.24316,
+      75.8338
+    ],
+    [
+      30.24336,
+      75.83374
+    ],
+    [
+      30.2435,
+      75.83371
+    ],
+    [
+      30.24366,
+      75.83368
+    ],
+    [
+      30.24411,
+      75.83362
+    ],
+    [
+      30.24415,
+      75.83362
+    ],
+    [
+      30.24444,
+      75.83359
+    ],
+    [
+      30.2446,
+      75.83357
+    ],
+    [
+      30.24502,
+      75.83354
+    ],
+    [
+      30.24504,
+      75.83354
+    ],
+    [
+      30.24533,
+      75.83353
+    ],
+    [
+      30.2455,
+      75.83352
+    ],
+    [
+      30.2456,
+      75.83352
+    ],
+    [
+      30.24585,
+      75.83351
+    ],
+    [
+      30.24611,
+      75.8335
+    ],
+    [
+      30.24641,
+      75.83349
+    ],
+    [
+      30.24661,
+      75.83349
+    ],
+    [
+      30.24667,
+      75.83349
+    ],
+    [
+      30.24691,
+      75.8335
+    ],
+    [
+      30.24697,
+      75.83351
+    ],
+    [
+      30.24711,
+      75.83352
+    ],
+    [
+      30.24721,
+      75.83352
+    ],
+    [
+      30.24733,
+      75.83353
+    ],
+    [
+      30.24738,
+      75.83354
+    ],
+    [
+      30.24752,
+      75.83355
+    ],
+    [
+      30.24762,
+      75.83357
+    ],
+    [
+      30.24768,
+      75.83358
+    ],
+    [
+      30.24792,
+      75.83363
+    ],
+    [
+      30.24808,
+      75.83367
+    ],
+    [
+      30.24811,
+      75.83367
+    ],
+    [
+      30.24818,
+      75.83369
+    ],
+    [
+      30.24843,
+      75.83375
+    ],
+    [
+      30.24872,
+      75.83381
+    ],
+    [
+      30.24885,
+      75.83385
+    ],
+    [
+      30.24898,
+      75.83389
+    ],
+    [
+      30.24923,
+      75.83396
+    ],
+    [
+      30.24912,
+      75.83427
+    ],
+    [
+      30.24888,
+      75.83411
+    ],
+    [
+      30.24874,
+      75.83441
+    ],
+    [
+      30.24868,
+      75.83456
+    ],
+    [
+      30.24831,
+      75.83453
+    ],
+    [
+      30.24825,
+      75.83444
+    ],
+    [
+      30.24824,
+      75.83441
+    ],
+    [
+      30.24823,
+      75.83438
+    ],
+    [
+      30.24823,
+      75.83433
+    ],
+    [
+      30.24824,
+      75.83429
+    ],
+    [
+      30.24825,
+      75.83424
+    ],
+    [
+      30.24828,
+      75.83419
+    ],
+    [
+      30.24836,
+      75.83405
+    ],
+    [
+      30.24839,
+      75.83402
+    ],
+    [
+      30.24842,
+      75.834
+    ],
+    [
+      30.24853,
+      75.83393
+    ]
+  ],
+  "alerts": [
+    {
+      "type": "sharp_turn",
+      "lat": 30.2101,
+      "lon": 75.86449,
+      "message": "Sharp Turn Ahead \u2013 Angle 180.4\u00b0"
+    },
+    {
+      "type": "sharp_turn",
+      "lat": 30.23851,
+      "lon": 75.83769,
+      "message": "Sharp Turn Ahead \u2013 Angle 94.9\u00b0"
+    },
+    {
+      "type": "sharp_turn",
+      "lat": 30.24888,
+      "lon": 75.83411,
+      "message": "Sharp Turn Ahead \u2013 Angle 287.9\u00b0"
+    },
+    {
+      "type": "sharp_turn",
+      "lat": 30.24825,
+      "lon": 75.83444,
+      "message": "Sharp Turn Ahead \u2013 Angle 134.1\u00b0"
+    },
+    {
+      "type": "blind_spot",
+      "lat": 30.210325,
+      "lon": 75.864385,
+      "message": "Blind Spot Ahead \u2013 Drive Carefully"
+    },
+    {
+      "type": "blind_spot",
+      "lat": 30.2385,
+      "lon": 75.837725,
+      "message": "Blind Spot Ahead \u2013 Drive Carefully"
+    },
+    {
+      "type": "blind_spot",
+      "lat": 30.24893,
+      "lon": 75.834,
+      "message": "Blind Spot Ahead \u2013 Drive Carefully"
+    },
+    {
+      "type": "blind_spot",
+      "lat": 30.248495,
+      "lon": 75.834425,
+      "message": "Blind Spot Ahead \u2013 Drive Carefully"
+    }
+  ],
+  "places": {
+    "hospital": [
+      {
+        "place_name": "Sodhi Eye Hospital (Dr Sodhi Eye Hospital)",
+        "address": "DC Residence, Near, MALL GODAM ROAD, Sangrur",
+        "place_lat": 30.24511,
+        "place_lon": 75.83238
+      },
+      {
+        "place_name": "Homi Bhabha Cancer Hospital, Sangrur",
+        "address": "Emergency Of Civil Hospital, Civil Hospital, Mubarik Mehal Colony, Sangrur",
+        "place_lat": 30.25176,
+        "place_lon": 75.83692
+      },
+      {
+        "place_name": "Maan Homeopathic Medical Centre || Homeopathic Clinic, Homeopathic Doctor, Homeopathic Treatment",
+        "address": "State Highway 11, near exicse office, DC Kothi Road, Sangrur",
+        "place_lat": 30.24913,
+        "place_lon": 75.83341
+      },
+      {
+        "place_name": "Care And Cure Health Clinic",
+        "address": "10 house number 13, Prem Basti Street Number 3, Partap Nagar, Sangrur",
+        "place_lat": 30.247,
+        "place_lon": 75.83454
+      },
+      {
+        "place_name": "NURSE MOHINDER KAUR",
+        "address": "6RXP+X5G, Prem Basti, Partap Nagar, Sangrur",
+        "place_lat": 30.24994,
+        "place_lon": 75.83545
+      },
+      {
+        "place_name": "Dr.Jain Hospital",
+        "address": "SCO 3, Guru Nanak Sarai, Mahavir Chowk",
+        "place_lat": 30.25079,
+        "place_lon": 75.83509
+      },
+      {
+        "place_name": "Dr. Rana Physiotherapy Clinic Sangrur",
+        "address": "Sangrur",
+        "place_lat": 30.24951,
+        "place_lon": 75.83745
+      },
+      {
+        "place_name": "Dr. Inderjeet Hospital",
+        "address": "6RXQ+H4H, Prem Basti, Partap Nagar, Sangrur",
+        "place_lat": 30.24894,
+        "place_lon": 75.83787
+      },
+      {
+        "place_name": "UMSSangrur",
+        "address": "7R2P+HC8, Mubarik Mehal Colony, Sangrur",
+        "place_lat": 30.25142,
+        "place_lon": 75.83607
+      },
+      {
+        "place_name": "Dr Harbans Singh Memorial Hospital & Nursing Home",
+        "address": "6RXQ+H5J, Partap Nagar, Sangrur",
+        "place_lat": 30.24897,
+        "place_lon": 75.83788
+      },
+      {
+        "place_name": "Delta medicos",
+        "address": "125, SH11, Ram Basti, Mubarik Mehal Colony, Sangrur",
+        "place_lat": 30.25195,
+        "place_lon": 75.83436
+      },
+      {
+        "place_name": "De addiction,civil hospital sangrur",
+        "address": "7R2P+P2P, Sangrur",
+        "place_lat": 30.25184,
+        "place_lon": 75.83509
+      },
+      {
+        "place_name": "Dr. Vijay Garg",
+        "address": "7R2M+Q67, Hareri Road, Ghumiar Basti, Sangrur",
+        "place_lat": 30.2519,
+        "place_lon": 75.83304
+      },
+      {
+        "place_name": "Jasvir medical & surgical center",
+        "address": "125, 125, State Highway 11, Ram Basti, Mubarik Mehal Colony, Sangrur",
+        "place_lat": 30.25205,
+        "place_lon": 75.83438
+      },
+      {
+        "place_name": "Ekjyot Eye Hospital",
+        "address": "6RVM+X3M, Nabha",
+        "place_lat": 30.24496,
+        "place_lon": 75.83266
+      },
+      {
+        "place_name": "Civil Hospital, Sangrur",
+        "address": "7R2P+Q7Q, Mubarik Mehal Colony, Sangrur",
+        "place_lat": 30.25196,
+        "place_lon": 75.83573
+      },
+      {
+        "place_name": "Vishwash Jacha Bacha Kendar",
+        "address": "7R2J+PPP, Ghumiar Basti, Sangrur",
+        "place_lat": 30.25183,
+        "place_lon": 75.83183
+      },
+      {
+        "place_name": "Family Dental Care",
+        "address": "322, Purani Abkari Sunami Gate Road, Partap Nagar, Sangrur",
+        "place_lat": 30.24637,
+        "place_lon": 75.8376
+      },
+      {
+        "place_name": "Sodhi Nursing Home",
+        "address": "Gobind Pura Colony, Sangrur",
+        "place_lat": 30.24489,
+        "place_lon": 75.83243
+      },
+      {
+        "place_name": "Comrade Jagdish Chander Freedom Fighter Civil Hospital",
+        "address": "7R2P+W45, Mubarik Mehal Colony, Sangrur",
+        "place_lat": 30.25225,
+        "place_lon": 75.83537
+      }
+    ],
+    "gas_station": [
+      {
+        "place_name": "IndianOil",
+        "address": "Ground Floor, NH 64, Sangrur Barnala Road, Badrukhan",
+        "place_lat": 30.24851,
+        "place_lon": 75.8339
+      },
+      {
+        "place_name": "Bharat Petroleum, Petrol Pump -Pal Service Station",
+        "address": "SANGRUR ON GAUSHALA ROAD, Sangrur",
+        "place_lat": 30.25062,
+        "place_lon": 75.83385
+      }
+    ],
+    "parking": [
+      {
+        "place_name": "Paid Car Parking",
+        "address": "B220, Street Number 1, Guru Nanak Colony, Mubarik Mehal Colony, Sangrur",
+        "place_lat": 30.25151,
+        "place_lon": 75.83513
+      },
+      {
+        "place_name": "Suwidha Center Parking In Dc Office Sangrur",
+        "address": "6RWP+HP7, Partap Nagar, Sangrur",
+        "place_lat": 30.24642,
+        "place_lon": 75.83679
+      }
+    ],
+    "puncture_shop": [
+      {
+        "place_name": "TITU TYRES (HOTLA), sangrur",
+        "address": "Gaushala Rd, Gobind Pura Colony, Sangrur",
+        "place_lat": 30.24192,
+        "place_lon": 75.83409
+      }
+    ]
+  }
+}

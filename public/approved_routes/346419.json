@@ -1,0 +1,702 @@
+{
+  "customer_code": "346419",
+  "name": "PUNJAB AGRO INDUSTRIES CORPN.LIMITE",
+  "route": [
+    [
+      30.2143,
+      75.8614
+    ],
+    [
+      30.21431,
+      75.86142
+    ],
+    [
+      30.21399,
+      75.86165
+    ],
+    [
+      30.21388,
+      75.86175
+    ],
+    [
+      30.21368,
+      75.86189
+    ],
+    [
+      30.21317,
+      75.86226
+    ],
+    [
+      30.21299,
+      75.86241
+    ],
+    [
+      30.21241,
+      75.86285
+    ],
+    [
+      30.21173,
+      75.86338
+    ],
+    [
+      30.21111,
+      75.86386
+    ],
+    [
+      30.21055,
+      75.86428
+    ],
+    [
+      30.21016,
+      75.86459
+    ],
+    [
+      30.2101,
+      75.86449
+    ],
+    [
+      30.21047,
+      75.8642
+    ],
+    [
+      30.21103,
+      75.86377
+    ],
+    [
+      30.21166,
+      75.86329
+    ],
+    [
+      30.21234,
+      75.86275
+    ],
+    [
+      30.21292,
+      75.86231
+    ],
+    [
+      30.21311,
+      75.86216
+    ],
+    [
+      30.21388,
+      75.8616
+    ],
+    [
+      30.21463,
+      75.86097
+    ],
+    [
+      30.2151,
+      75.86062
+    ],
+    [
+      30.21556,
+      75.86021
+    ],
+    [
+      30.21601,
+      75.85988
+    ],
+    [
+      30.21654,
+      75.85949
+    ],
+    [
+      30.21841,
+      75.85795
+    ],
+    [
+      30.21899,
+      75.85734
+    ],
+    [
+      30.21975,
+      75.85656
+    ],
+    [
+      30.21988,
+      75.85644
+    ],
+    [
+      30.22012,
+      75.85621
+    ],
+    [
+      30.22079,
+      75.85562
+    ],
+    [
+      30.22095,
+      75.85551
+    ],
+    [
+      30.22107,
+      75.85541
+    ],
+    [
+      30.22123,
+      75.85536
+    ],
+    [
+      30.22149,
+      75.85515
+    ],
+    [
+      30.22179,
+      75.85484
+    ],
+    [
+      30.22195,
+      75.85467
+    ],
+    [
+      30.22216,
+      75.85448
+    ],
+    [
+      30.22266,
+      75.85402
+    ],
+    [
+      30.22307,
+      75.85361
+    ],
+    [
+      30.22339,
+      75.85332
+    ],
+    [
+      30.22383,
+      75.85279
+    ],
+    [
+      30.22443,
+      75.8522
+    ],
+    [
+      30.22488,
+      75.85176
+    ],
+    [
+      30.22599,
+      75.85068
+    ],
+    [
+      30.22709,
+      75.84964
+    ],
+    [
+      30.22719,
+      75.84954
+    ],
+    [
+      30.2277,
+      75.84902
+    ],
+    [
+      30.22773,
+      75.84899
+    ],
+    [
+      30.2283,
+      75.84841
+    ],
+    [
+      30.22833,
+      75.84838
+    ],
+    [
+      30.22849,
+      75.84822
+    ],
+    [
+      30.22896,
+      75.84777
+    ],
+    [
+      30.22902,
+      75.8477
+    ],
+    [
+      30.22986,
+      75.84685
+    ],
+    [
+      30.23009,
+      75.8466
+    ],
+    [
+      30.23022,
+      75.84648
+    ],
+    [
+      30.23049,
+      75.84621
+    ],
+    [
+      30.23074,
+      75.84596
+    ],
+    [
+      30.23194,
+      75.84474
+    ],
+    [
+      30.23206,
+      75.84462
+    ],
+    [
+      30.23226,
+      75.84442
+    ],
+    [
+      30.23251,
+      75.84416
+    ],
+    [
+      30.23269,
+      75.84398
+    ],
+    [
+      30.23294,
+      75.84372
+    ],
+    [
+      30.23305,
+      75.84361
+    ],
+    [
+      30.23337,
+      75.84327
+    ],
+    [
+      30.23349,
+      75.84315
+    ],
+    [
+      30.2339,
+      75.84273
+    ],
+    [
+      30.23415,
+      75.84247
+    ],
+    [
+      30.23434,
+      75.84227
+    ],
+    [
+      30.23443,
+      75.84218
+    ],
+    [
+      30.23451,
+      75.84208
+    ],
+    [
+      30.23478,
+      75.84181
+    ],
+    [
+      30.23509,
+      75.84148
+    ],
+    [
+      30.23526,
+      75.84131
+    ],
+    [
+      30.23562,
+      75.84094
+    ],
+    [
+      30.23583,
+      75.84072
+    ],
+    [
+      30.23641,
+      75.84012
+    ],
+    [
+      30.23663,
+      75.8399
+    ],
+    [
+      30.23685,
+      75.83965
+    ],
+    [
+      30.23694,
+      75.83956
+    ],
+    [
+      30.23699,
+      75.83949
+    ],
+    [
+      30.23719,
+      75.8393
+    ],
+    [
+      30.23722,
+      75.83927
+    ],
+    [
+      30.23749,
+      75.83898
+    ],
+    [
+      30.23765,
+      75.83882
+    ],
+    [
+      30.23778,
+      75.83866
+    ],
+    [
+      30.23806,
+      75.83832
+    ],
+    [
+      30.23818,
+      75.83816
+    ],
+    [
+      30.23831,
+      75.83796
+    ],
+    [
+      30.23836,
+      75.83791
+    ],
+    [
+      30.23842,
+      75.83785
+    ],
+    [
+      30.23849,
+      75.83776
+    ],
+    [
+      30.23852,
+      75.83771
+    ],
+    [
+      30.23851,
+      75.83769
+    ],
+    [
+      30.23851,
+      75.83766
+    ],
+    [
+      30.23851,
+      75.83763
+    ],
+    [
+      30.23852,
+      75.8376
+    ],
+    [
+      30.23853,
+      75.83758
+    ],
+    [
+      30.23854,
+      75.83756
+    ],
+    [
+      30.23856,
+      75.83755
+    ],
+    [
+      30.23858,
+      75.83754
+    ],
+    [
+      30.2386,
+      75.83754
+    ],
+    [
+      30.23862,
+      75.83753
+    ],
+    [
+      30.23864,
+      75.83754
+    ],
+    [
+      30.23866,
+      75.83754
+    ],
+    [
+      30.23867,
+      75.83756
+    ],
+    [
+      30.23869,
+      75.83758
+    ],
+    [
+      30.2387,
+      75.8376
+    ],
+    [
+      30.2387,
+      75.83763
+    ],
+    [
+      30.2387,
+      75.83766
+    ],
+    [
+      30.23869,
+      75.83768
+    ],
+    [
+      30.23869,
+      75.83771
+    ],
+    [
+      30.23867,
+      75.83773
+    ],
+    [
+      30.23865,
+      75.83774
+    ],
+    [
+      30.23863,
+      75.83775
+    ],
+    [
+      30.23861,
+      75.83776
+    ],
+    [
+      30.23844,
+      75.83795
+    ],
+    [
+      30.23831,
+      75.83812
+    ],
+    [
+      30.23819,
+      75.83826
+    ],
+    [
+      30.23802,
+      75.83848
+    ],
+    [
+      30.2381,
+      75.83857
+    ]
+  ],
+  "alerts": [
+    {
+      "type": "sharp_turn",
+      "lat": 30.21431,
+      "lon": 75.86142,
+      "message": "Sharp Turn Ahead \u2013 Angle 88.2\u00b0"
+    },
+    {
+      "type": "sharp_turn",
+      "lat": 30.2101,
+      "lon": 75.86449,
+      "message": "Sharp Turn Ahead \u2013 Angle 180.4\u00b0"
+    },
+    {
+      "type": "sharp_turn",
+      "lat": 30.23851,
+      "lon": 75.83769,
+      "message": "Sharp Turn Ahead \u2013 Angle 94.9\u00b0"
+    },
+    {
+      "type": "sharp_turn",
+      "lat": 30.2387,
+      "lon": 75.8376,
+      "message": "Sharp Turn Ahead \u2013 Angle 245.0\u00b0"
+    },
+    {
+      "type": "sharp_turn",
+      "lat": 30.23867,
+      "lon": 75.83773,
+      "message": "Sharp Turn Ahead \u2013 Angle 126.8\u00b0"
+    },
+    {
+      "type": "blind_spot",
+      "lat": 30.210325,
+      "lon": 75.864385,
+      "message": "Blind Spot Ahead \u2013 Drive Carefully"
+    },
+    {
+      "type": "blind_spot",
+      "lat": 30.2385,
+      "lon": 75.837725,
+      "message": "Blind Spot Ahead \u2013 Drive Carefully"
+    },
+    {
+      "type": "blind_spot",
+      "lat": 30.23863,
+      "lon": 75.837575,
+      "message": "Blind Spot Ahead \u2013 Drive Carefully"
+    },
+    {
+      "type": "blind_spot",
+      "lat": 30.238685,
+      "lon": 75.83768,
+      "message": "Blind Spot Ahead \u2013 Drive Carefully"
+    }
+  ],
+  "places": {
+    "hospital": [
+      {
+        "place_name": "Mittal Eye Hospital - Eye hospital in Sangrur",
+        "address": "S.C.F.- 32, Maharaja Ranjit Singh Market, Outside Near Magnum Palace, Sangrur-Uppli Road, Sunami Gate, Sangrur",
+        "place_lat": 30.23751,
+        "place_lon": 75.83744
+      },
+      {
+        "place_name": "B Kumar Medicos",
+        "address": "Shop No 3, Noorpura Basti, Outside, Sunami Gate, Sangrur",
+        "place_lat": 30.23837,
+        "place_lon": 75.8383
+      },
+      {
+        "place_name": "deep clinic",
+        "address": "6RQQ+3G4, Dirba - Sangrur Road",
+        "place_lat": 30.23765,
+        "place_lon": 75.83882
+      },
+      {
+        "place_name": "Dr. Lovneet orthodontist (Dental surgeon)",
+        "address": "6RPQ+6CC, Sunam Road, Gobind Pura Colony, Sangrur",
+        "place_lat": 30.23556,
+        "place_lon": 75.83853
+      },
+      {
+        "place_name": "Dr Parveen Garg Patiala",
+        "address": "SSST Nagar, Gobind Pura Colony, Sangrur",
+        "place_lat": 30.23509,
+        "place_lon": 75.83707
+      },
+      {
+        "place_name": "Dr H.S Bali",
+        "address": "House no 4, 1, Haripura Colony, Partap Nagar, Sangrur",
+        "place_lat": 30.24049,
+        "place_lon": 75.84126
+      }
+    ],
+    "gas_station": [
+      {
+        "place_name": "IndianOil",
+        "address": "6RQQ+6CQ, Haripura Colony, Partap Nagar, Sangrur",
+        "place_lat": 30.23804,
+        "place_lon": 75.83867
+      },
+      {
+        "place_name": "Government Owned Petrol Pump",
+        "address": "6RQQ+7FJ, Sangrur",
+        "place_lat": 30.23821,
+        "place_lon": 75.83863
+      },
+      {
+        "place_name": "IndianOil",
+        "address": "near Truck Union, Ground Floor Jind Road, NH 64,Badrukhan, near Truck Union, Sangrur",
+        "place_lat": 30.23712,
+        "place_lon": 75.83949
+      },
+      {
+        "place_name": "Janta Service Station",
+        "address": "Maan Colony, Sangrur",
+        "place_lat": 30.23661,
+        "place_lon": 75.83956
+      },
+      {
+        "place_name": "Grewal Filling Station",
+        "address": "6RQP+QGP, NH-71, Gobind Pura Colony, Sangrur",
+        "place_lat": 30.23947,
+        "place_lon": 75.83634
+      }
+    ],
+    "parking": [
+      {
+        "place_name": "Pee Kay Traders",
+        "address": "India",
+        "place_lat": 30.24067,
+        "place_lon": 75.83497
+      }
+    ],
+    "puncture_shop": [
+      {
+        "place_name": "New Hotla Tyres",
+        "address": "Dirba, Jind Road, Sangrur",
+        "place_lat": 30.23273,
+        "place_lon": 75.84413
+      },
+      {
+        "place_name": "Hotla Tyres",
+        "address": "6RPQ+WV3, Dirba - Sangrur Rd, Haripura Colony, Partap Nagar, Sangrur",
+        "place_lat": 30.23729,
+        "place_lon": 75.83968
+      },
+      {
+        "place_name": "RAJU TYRE SERVICE",
+        "address": "New Partap Nagar, Haripura Colony, Partap Nagar, Sangrur",
+        "place_lat": 30.23749,
+        "place_lon": 75.83941
+      },
+      {
+        "place_name": "Apollo Tyres - New Hotla Tyres",
+        "address": "Ground Floor, Road, near TVS Agency, Maan Colony, Mahlan, Sangrur",
+        "place_lat": 30.23449,
+        "place_lon": 75.84626
+      },
+      {
+        "place_name": "Vishal Tyres",
+        "address": "Maan Colony, Sangrur",
+        "place_lat": 30.23212,
+        "place_lon": 75.84429
+      },
+      {
+        "place_name": "Bedi Motors",
+        "address": "C/o Bedi Motors Gaushala Road Sangrur Punjab, Sangrur",
+        "place_lat": 30.23982,
+        "place_lon": 75.8359
+      },
+      {
+        "place_name": "TITU TYRES (HOTLA), sangrur",
+        "address": "Gaushala Rd, Gobind Pura Colony, Sangrur",
+        "place_lat": 30.24192,
+        "place_lon": 75.83409
+      },
+      {
+        "place_name": "Pee Kay Traders",
+        "address": "Gobind Pura Colony, Sangrur",
+        "place_lat": 30.24067,
+        "place_lon": 75.83497
+      },
+      {
+        "place_name": "Gupta Tyres",
+        "address": "6RRP+74C, Gaushala Rd, Gobind Pura Colony, Sangrur",
+        "place_lat": 30.24071,
+        "place_lon": 75.83529
+      },
+      {
+        "place_name": "MUNNA TYRES",
+        "address": "6RQQ+2CX, near Old Truck Union, Maan Colony, Sangrur",
+        "place_lat": 30.2376,
+        "place_lon": 75.83864
+      },
+      {
+        "place_name": "Sharma Tyre Service",
+        "address": "Partap Nagar, Sangrur",
+        "place_lat": 30.24029,
+        "place_lon": 75.83577
+      }
+    ]
+  }
+}

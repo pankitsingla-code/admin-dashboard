@@ -1,0 +1,494 @@
+{
+  "customer_code": "502617",
+  "name": "GEN.MANAGER PRTC,SANGRUR",
+  "route": [
+    [
+      30.2143,
+      75.8614
+    ],
+    [
+      30.21431,
+      75.86142
+    ],
+    [
+      30.21399,
+      75.86165
+    ],
+    [
+      30.21388,
+      75.86175
+    ],
+    [
+      30.21368,
+      75.86189
+    ],
+    [
+      30.21317,
+      75.86226
+    ],
+    [
+      30.21298,
+      75.86241
+    ],
+    [
+      30.21241,
+      75.86284
+    ],
+    [
+      30.21172,
+      75.86336
+    ],
+    [
+      30.21109,
+      75.86383
+    ],
+    [
+      30.21054,
+      75.86425
+    ],
+    [
+      30.21014,
+      75.86455
+    ],
+    [
+      30.20944,
+      75.86511
+    ],
+    [
+      30.20896,
+      75.8655
+    ],
+    [
+      30.2083,
+      75.86602
+    ],
+    [
+      30.20822,
+      75.86591
+    ],
+    [
+      30.20889,
+      75.86539
+    ],
+    [
+      30.20936,
+      75.86502
+    ],
+    [
+      30.21008,
+      75.86445
+    ],
+    [
+      30.21045,
+      75.86417
+    ],
+    [
+      30.21101,
+      75.86375
+    ],
+    [
+      30.21165,
+      75.86327
+    ],
+    [
+      30.21234,
+      75.86274
+    ],
+    [
+      30.21292,
+      75.86231
+    ],
+    [
+      30.21311,
+      75.86216
+    ],
+    [
+      30.21388,
+      75.8616
+    ],
+    [
+      30.21463,
+      75.86097
+    ],
+    [
+      30.2151,
+      75.86062
+    ],
+    [
+      30.21556,
+      75.86021
+    ],
+    [
+      30.21601,
+      75.85988
+    ],
+    [
+      30.21654,
+      75.85949
+    ],
+    [
+      30.21768,
+      75.85856
+    ],
+    [
+      30.21841,
+      75.85795
+    ],
+    [
+      30.21899,
+      75.85734
+    ],
+    [
+      30.21975,
+      75.85656
+    ],
+    [
+      30.21988,
+      75.85644
+    ],
+    [
+      30.22012,
+      75.85621
+    ],
+    [
+      30.22079,
+      75.85562
+    ],
+    [
+      30.22095,
+      75.85551
+    ],
+    [
+      30.22171,
+      75.85666
+    ],
+    [
+      30.22469,
+      75.86271
+    ],
+    [
+      30.22643,
+      75.86623
+    ],
+    [
+      30.23092,
+      75.8648
+    ],
+    [
+      30.23193,
+      75.86414
+    ],
+    [
+      30.23709,
+      75.85693
+    ],
+    [
+      30.24058,
+      75.852
+    ],
+    [
+      30.24173,
+      75.86063
+    ],
+    [
+      30.24224,
+      75.86332
+    ],
+    [
+      30.2464,
+      75.86204
+    ],
+    [
+      30.24854,
+      75.86109
+    ],
+    [
+      30.25212,
+      75.85894
+    ],
+    [
+      30.25724,
+      75.85586
+    ],
+    [
+      30.25274,
+      75.84983
+    ],
+    [
+      30.25059,
+      75.84622
+    ],
+    [
+      30.24962,
+      75.84532
+    ],
+    [
+      30.2514,
+      75.8424
+    ],
+    [
+      30.24935,
+      75.83978
+    ]
+  ],
+  "alerts": [
+    {
+      "type": "sharp_turn",
+      "lat": 30.21431,
+      "lon": 75.86142,
+      "message": "Sharp Turn Ahead \u2013 Angle 88.2\u00b0"
+    },
+    {
+      "type": "sharp_turn",
+      "lat": 30.20822,
+      "lon": 75.86591,
+      "message": "Sharp Turn Ahead \u2013 Angle 180.4\u00b0"
+    },
+    {
+      "type": "sharp_turn",
+      "lat": 30.22095,
+      "lon": 75.85551,
+      "message": "Sharp Turn Ahead \u2013 Angle 83.3\u00b0"
+    },
+    {
+      "type": "sharp_turn",
+      "lat": 30.22643,
+      "lon": 75.86623,
+      "message": "Sharp Turn Ahead \u2013 Angle 75.6\u00b0"
+    },
+    {
+      "type": "sharp_turn",
+      "lat": 30.24058,
+      "lon": 75.852,
+      "message": "Sharp Turn Ahead \u2013 Angle 131.9\u00b0"
+    },
+    {
+      "type": "sharp_turn",
+      "lat": 30.24224,
+      "lon": 75.86332,
+      "message": "Sharp Turn Ahead \u2013 Angle 92.5\u00b0"
+    },
+    {
+      "type": "sharp_turn",
+      "lat": 30.25724,
+      "lon": 75.85586,
+      "message": "Sharp Turn Ahead \u2013 Angle 103.4\u00b0"
+    },
+    {
+      "type": "blind_spot",
+      "lat": 30.20859,
+      "lon": 75.865705,
+      "message": "Blind Spot Ahead \u2013 Drive Carefully"
+    },
+    {
+      "type": "blind_spot",
+      "lat": 30.238835,
+      "lon": 75.854465,
+      "message": "Blind Spot Ahead \u2013 Drive Carefully"
+    },
+    {
+      "type": "blind_spot",
+      "lat": 30.241985,
+      "lon": 75.861975,
+      "message": "Blind Spot Ahead \u2013 Drive Carefully"
+    },
+    {
+      "type": "blind_spot",
+      "lat": 30.25468,
+      "lon": 75.8574,
+      "message": "Blind Spot Ahead \u2013 Drive Carefully"
+    }
+  ],
+  "places": {
+    "hospital": [
+      {
+        "place_name": "Umeed Multi-Speciality Hospital",
+        "address": "Near GGS Public School, Sangrur-Patiala Bye Pass Road Sangru",
+        "place_lat": 30.2446,
+        "place_lon": 75.86306
+      },
+      {
+        "place_name": "Delhi Dental Centre",
+        "address": "KARUNA NEUROPSYCHIATRY HOSPITAL, Sangrur",
+        "place_lat": 30.24488,
+        "place_lon": 75.86286
+      },
+      {
+        "place_name": "Homi Bhabha Cancer Hospital, Sangrur",
+        "address": "Emergency Of Civil Hospital, Civil Hospital, Mubarik Mehal Colony, Sangrur",
+        "place_lat": 30.25176,
+        "place_lon": 75.83692
+      },
+      {
+        "place_name": "Jindal Nursing Home",
+        "address": "Bus Stand Road, Guru Nanak Colony, Sangrur",
+        "place_lat": 30.24961,
+        "place_lon": 75.83999
+      },
+      {
+        "place_name": "Near bus stand",
+        "address": "6RXQ+9HF, Partap Nagar, Sangrur",
+        "place_lat": 30.24841,
+        "place_lon": 75.83892
+      },
+      {
+        "place_name": "Dr Harbans Singh Memorial Hospital & Nursing Home",
+        "address": "6RXQ+H5J, Partap Nagar, Sangrur",
+        "place_lat": 30.24897,
+        "place_lon": 75.83788
+      },
+      {
+        "place_name": "Dr. Inderjeet Hospital",
+        "address": "6RXQ+H4H, Prem Basti, Partap Nagar, Sangrur",
+        "place_lat": 30.24894,
+        "place_lon": 75.83787
+      },
+      {
+        "place_name": "Dr. Rana Physiotherapy Clinic Sangrur",
+        "address": "Sangrur",
+        "place_lat": 30.24951,
+        "place_lon": 75.83745
+      },
+      {
+        "place_name": "Dr Suminder Singh { New Paul }",
+        "address": "6RWR+JFV, Dhuri Gate Market Road, Dhuri Gate, Sangrur",
+        "place_lat": 30.2466,
+        "place_lon": 75.84118
+      },
+      {
+        "place_name": "Dr. Paul Child Clini",
+        "address": "7R2R+MR9, Mubarik Mehal Colony, Sangrur",
+        "place_lat": 30.25166,
+        "place_lon": 75.84212
+      },
+      {
+        "place_name": "Dr D P Singla Child Hospital",
+        "address": "7R2R+MV6, Mubarik Mehal Colony, Sangrur",
+        "place_lat": 30.25166,
+        "place_lon": 75.84213
+      },
+      {
+        "place_name": "Dharmpal Child Hospital",
+        "address": "7R2R+MVF, Mubarik Mehal Colony, Sangrur",
+        "place_lat": 30.2517,
+        "place_lon": 75.84216
+      },
+      {
+        "place_name": "Guru nanak colony bus stand road sec 17",
+        "address": "7R2R+MVJ, Guru Nanak Colony, Sangrur",
+        "place_lat": 30.25172,
+        "place_lon": 75.84214
+      },
+      {
+        "place_name": "Dr Harman Optical",
+        "address": "6RXV+GC7, Nabha Gate, Sangrur",
+        "place_lat": 30.24878,
+        "place_lon": 75.84354
+      },
+      {
+        "place_name": "Madanjeet Eye Care",
+        "address": "7R2V+J2P, Mubarik Mehal Colony, Sangrur",
+        "place_lat": 30.25159,
+        "place_lon": 75.84259
+      },
+      {
+        "place_name": "\u0a28\u0a3f\u0a0a \u0a2a\u0a3e\u0a32 \u0a05\u0a2a\u0a1f\u0a40\u0a15\u0a32\u0a5b",
+        "address": "Dhuri Gate Market Road, Dhuri Gate, Sangrur",
+        "place_lat": 30.24635,
+        "place_lon": 75.84147
+      },
+      {
+        "place_name": "dr.ashok hospital sangrur",
+        "address": "near Madan jeet ki Kothi, Bus Stand Road, Sangrur",
+        "place_lat": 30.25162,
+        "place_lon": 75.84266
+      },
+      {
+        "place_name": "Family Dental Care",
+        "address": "322, Purani Abkari Sunami Gate Road, Partap Nagar, Sangrur",
+        "place_lat": 30.24637,
+        "place_lon": 75.8376
+      },
+      {
+        "place_name": "Rana Helth Care",
+        "address": "7R3Q+5JJ, Mubarik Mehal Colony, Sangrur",
+        "place_lat": 30.25295,
+        "place_lon": 75.83903
+      },
+      {
+        "place_name": "NURSE MOHINDER KAUR",
+        "address": "6RXP+X5G, Prem Basti, Partap Nagar, Sangrur",
+        "place_lat": 30.24994,
+        "place_lon": 75.83545
+      },
+      {
+        "place_name": "UMSSangrur",
+        "address": "7R2P+HC8, Mubarik Mehal Colony, Sangrur",
+        "place_lat": 30.25142,
+        "place_lon": 75.83607
+      },
+      {
+        "place_name": "Moge madhe vale",
+        "address": "6RWR+8R8, Sangrur",
+        "place_lat": 30.2458,
+        "place_lon": 75.84207
+      }
+    ],
+    "gas_station": [
+      {
+        "place_name": "Petrol pump",
+        "address": "36A, Guru Nanak Colony, Mubarik Mehal Colony, Sangrur",
+        "place_lat": 30.25114,
+        "place_lon": 75.84332
+      }
+    ],
+    "police": [
+      {
+        "place_name": "Sahil IAS Best coaching centre for civil services and other competitive exams",
+        "address": "Mubarik Mehal Colony, Sangrur",
+        "place_lat": 30.25255,
+        "place_lon": 75.84095
+      },
+      {
+        "place_name": "Hardeep Singh",
+        "address": "SSP OFFICE, Sangrur",
+        "place_lat": 30.2458,
+        "place_lon": 75.84207
+      }
+    ],
+    "parking": [
+      {
+        "place_name": "ICICI Lombard Network Garage Sangrur, Punjab (SANGRUR MARUTI CENTRE)",
+        "address": "opp. MILITARY CAMPUS, PATIALA CHANDIGARH, opp. MILITARY CAMPUS, ROAD, Sangrur",
+        "place_lat": 30.24196,
+        "place_lon": 75.86275
+      },
+      {
+        "place_name": "Bus stand",
+        "address": "District Bus Stand, Bus Station Road, Partap Nagar, Sangrur",
+        "place_lat": 30.24858,
+        "place_lon": 75.83937
+      },
+      {
+        "place_name": "Scooter Parking",
+        "address": "6RXR+72H, Sangrur",
+        "place_lat": 30.24819,
+        "place_lon": 75.84012
+      },
+      {
+        "place_name": "Suwidha Center Parking In Dc Office Sangrur",
+        "address": "6RWP+HP7, Partap Nagar, Sangrur",
+        "place_lat": 30.24642,
+        "place_lon": 75.83679
+      }
+    ],
+    "crane": [
+      {
+        "place_name": "Sangrur Crane Service Meet",
+        "address": "Partap Nagar, Sangrur",
+        "place_lat": 30.2458,
+        "place_lon": 75.84207
+      }
+    ]
+  }
+}

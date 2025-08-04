@@ -1,0 +1,310 @@
+{
+  "customer_code": "502341",
+  "name": "7 WING AF  STATION RAJPURA",
+  "route": [
+    [
+      30.2143,
+      75.8614
+    ],
+    [
+      30.21017,
+      75.86459
+    ],
+    [
+      30.22107,
+      75.85541
+    ],
+    [
+      30.22295,
+      75.85911
+    ],
+    [
+      30.49467,
+      76.57893
+    ],
+    [
+      30.49328,
+      76.58878
+    ],
+    [
+      30.49328,
+      76.59184
+    ],
+    [
+      30.49267,
+      76.60033
+    ],
+    [
+      30.49533,
+      76.60538
+    ],
+    [
+      30.50991,
+      76.60423
+    ],
+    [
+      30.52923,
+      76.59965
+    ],
+    [
+      30.54366,
+      76.59577
+    ],
+    [
+      30.54372,
+      76.59583
+    ],
+    [
+      30.55425,
+      76.6076
+    ]
+  ],
+  "alerts": [
+    {
+      "type": "sharp_turn",
+      "lat": 30.22107,
+      "lon": 75.85541,
+      "message": "Sharp Turn Ahead \u2013 Angle 273.3\u00b0"
+    },
+    {
+      "type": "sharp_turn",
+      "lat": 30.49533,
+      "lon": 76.60538,
+      "message": "Sharp Turn Ahead \u2013 Angle 98.7\u00b0"
+    },
+    {
+      "type": "sharp_turn",
+      "lat": 30.54366,
+      "lon": 76.59577,
+      "message": "Sharp Turn Ahead \u2013 Angle 53.8\u00b0"
+    },
+    {
+      "type": "blind_spot",
+      "lat": 30.217685,
+      "lon": 75.858405,
+      "message": "Blind Spot Ahead \u2013 Drive Carefully"
+    },
+    {
+      "type": "blind_spot",
+      "lat": 30.494305,
+      "lon": 76.59861,
+      "message": "Blind Spot Ahead \u2013 Drive Carefully"
+    }
+  ],
+  "places": {
+    "hospital": [
+      {
+        "place_name": "MSPL",
+        "address": "FHWR+W83, Bhateri Bhapal Nalas Road, Rajpura",
+        "place_lat": 30.49726,
+        "place_lon": 76.59078
+      },
+      {
+        "place_name": "MSPL",
+        "address": "FHWR+W83, Bhateri Bhapal Nalas Road, Rajpura",
+        "place_lat": 30.49726,
+        "place_lon": 76.59078
+      },
+      {
+        "place_name": "Veterinary hospital",
+        "address": "New Bus Stand, Rajpura",
+        "place_lat": 30.49083,
+        "place_lon": 76.59574
+      },
+      {
+        "place_name": "Mehta hospital",
+        "address": "near Gagan Chowk, Chandigarh road, Rajpura",
+        "place_lat": 30.49376,
+        "place_lon": 76.60153
+      },
+      {
+        "place_name": "RANBIR PHARMA",
+        "address": "near Gurudwara Sahib Baba Choohar Singh Mata Shanti Devi, Jaslok Hospital Road, Rajpura",
+        "place_lat": 30.49101,
+        "place_lon": 76.60002
+      },
+      {
+        "place_name": "bawa optical",
+        "address": "FHRX+895, Rajpura",
+        "place_lat": 30.49076,
+        "place_lon": 76.59847
+      },
+      {
+        "place_name": "Mehta hospital",
+        "address": "near Gagan Chowk, near Headmaster saloon, Rajpura-Chandigarh Road, chandigarh, Rajpura",
+        "place_lat": 30.49422,
+        "place_lon": 76.60277
+      },
+      {
+        "place_name": "gain sagar, urban health center rajpura",
+        "address": "FHRW+VRH, Rajpura",
+        "place_lat": 30.4922,
+        "place_lon": 76.59711
+      },
+      {
+        "place_name": "Veterinary hospital",
+        "address": "New Bus Stand, Rajpura",
+        "place_lat": 30.49083,
+        "place_lon": 76.59574
+      },
+      {
+        "place_name": "Mehta hospital",
+        "address": "near Gagan Chowk, near Headmaster saloon, Rajpura-Chandigarh Road, chandigarh, Rajpura",
+        "place_lat": 30.49422,
+        "place_lon": 76.60277
+      },
+      {
+        "place_name": "Mehta hospital",
+        "address": "near Gagan Chowk, Chandigarh road, Rajpura",
+        "place_lat": 30.49376,
+        "place_lon": 76.60153
+      },
+      {
+        "place_name": "\u0a38\u0a2c\u0a38\u0a3f\u0a21\u0a30\u0a40 \u0a39\u0a48\u0a32\u0a25 \u0a38\u0a48\u0a02\u0a1f\u0a30, \u0a15\u0a4b\u0a1f\u0a32\u0a3e",
+        "address": "GHWX+FP5, Kotla",
+        "place_lat": 30.54613,
+        "place_lon": 76.59937
+      },
+      {
+        "place_name": "\u0a38\u0a2c\u0a38\u0a3f\u0a21\u0a30\u0a40 \u0a39\u0a48\u0a32\u0a25 \u0a38\u0a48\u0a02\u0a1f\u0a30, \u0a15\u0a4b\u0a1f\u0a32\u0a3e",
+        "address": "GHWX+FP5, Kotla",
+        "place_lat": 30.54613,
+        "place_lon": 76.59937
+      }
+    ],
+    "gas_station": [
+      {
+        "place_name": "IndianOil",
+        "address": "Ground Floor, near Km Stone, 315 to 317, Patiala Rajpura Road, Basantpura",
+        "place_lat": 30.49378,
+        "place_lon": 76.57812
+      },
+      {
+        "place_name": "Rajpura Service Station BPCL Petrol Pump",
+        "address": "National Highway 64, Rajpura",
+        "place_lat": 30.49366,
+        "place_lon": 76.60239
+      },
+      {
+        "place_name": "SARASWATI OIL COMPANY",
+        "address": "FHRX+WWP, National Highway 7, Rajpura",
+        "place_lat": 30.49233,
+        "place_lon": 76.59982
+      },
+      {
+        "place_name": "IndianOil",
+        "address": "Nh 1 Sirhind, Rajpura - Patiala Road, Pilkhani",
+        "place_lat": 30.48942,
+        "place_lon": 76.60257
+      },
+      {
+        "place_name": "IndianOil",
+        "address": "Ground Floor, Sirhind Ambala Road NH 1, Rajpura, Basantpura",
+        "place_lat": 30.48921,
+        "place_lon": 76.60281
+      },
+      {
+        "place_name": "Rajpura Service Station BPCL Petrol Pump",
+        "address": "National Highway 64, Rajpura",
+        "place_lat": 30.49366,
+        "place_lon": 76.60239
+      }
+    ],
+    "parking": [
+      {
+        "place_name": "G Spot",
+        "address": "FJV2+352, Rajpura",
+        "place_lat": 30.49263,
+        "place_lon": 76.6004
+      },
+      {
+        "place_name": "CHAHAL CAR PARKING",
+        "address": "Gagan chownk , Bye Pass Kaithal - Ambala Road Gagan chownk, Bye Pass, Rajpura",
+        "place_lat": 30.49251,
+        "place_lon": 76.60098
+      },
+      {
+        "place_name": "Ram Ray Cycle Stand",
+        "address": "Ram Ray Cycle Stand, Patiala",
+        "place_lat": 30.49338,
+        "place_lon": 76.60085
+      },
+      {
+        "place_name": "Chahal cycle stand",
+        "address": "FJR2+HQV, Monga motor store , Motor Market, near gagan Chowk, Old Ambala Road, Rajpura",
+        "place_lat": 30.49148,
+        "place_lon": 76.60192
+      },
+      {
+        "place_name": "Ram Ray Cycle Stand",
+        "address": "Ram Ray Cycle Stand, Patiala",
+        "place_lat": 30.49338,
+        "place_lon": 76.60085
+      }
+    ],
+    "crane": [
+      {
+        "place_name": "Gurchain Crane Sarvice Rajpura To Patiala",
+        "address": "Bus Stop, Gagan Chowk, Ambala, Rajpura",
+        "place_lat": 30.49244,
+        "place_lon": 76.60112
+      },
+      {
+        "place_name": "Dada Multani Crane Sarvice Rajpura (Patiala)",
+        "address": "Over Bridge (Gagan chownk, Jammu - Delhi Rd, near Gagan Chowk, Rajpura",
+        "place_lat": 30.49278,
+        "place_lon": 76.59998
+      },
+      {
+        "place_name": "Mansirat Crane Service Rajpura City TO Shambhu",
+        "address": "near eagle, Rajpura",
+        "place_lat": 30.49156,
+        "place_lon": 76.6018
+      },
+      {
+        "place_name": "Dada Multani Crane Sarvice Rajpura (Patiala)",
+        "address": "Over Bridge (Gagan chownk, Jammu - Delhi Rd, near Gagan Chowk, Rajpura",
+        "place_lat": 30.49278,
+        "place_lon": 76.59998
+      },
+      {
+        "place_name": "Gurchain Crane Sarvice Rajpura To Patiala",
+        "address": "Bus Stop, Gagan Chowk, Ambala, Rajpura",
+        "place_lat": 30.49244,
+        "place_lon": 76.60112
+      },
+      {
+        "place_name": "Sukhbir Crane service",
+        "address": "FJX6+HX9, Rajpura",
+        "place_lat": 30.49881,
+        "place_lon": 76.6125
+      },
+      {
+        "place_name": "Mansirat Crane Service Rajpura City TO Shambhu",
+        "address": "near eagle, Rajpura",
+        "place_lat": 30.49156,
+        "place_lon": 76.6018
+      }
+    ],
+    "puncture_shop": [
+      {
+        "place_name": "Dasmesh Tyres Repsolling & trading",
+        "address": "FJQ2+CP4, Ambala Road, Patiala - Rajpura Bypass",
+        "place_lat": 30.48853,
+        "place_lon": 76.60186
+      },
+      {
+        "place_name": "Kanpur Tyres",
+        "address": "Ambala, road, Rajpura",
+        "place_lat": 30.49251,
+        "place_lon": 76.60111
+      },
+      {
+        "place_name": "Kanpur Tyres",
+        "address": "Ambala, road, Rajpura",
+        "place_lat": 30.49251,
+        "place_lon": 76.60111
+      }
+    ]
+  }
+}
