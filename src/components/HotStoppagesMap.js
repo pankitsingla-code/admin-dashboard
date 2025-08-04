@@ -14,7 +14,7 @@ L.Icon.Default.mergeOptions({
 });
 
 const HotStoppagesMap = ({ hotStops, onClose }) => {
-  const [minFrequency, setMinFrequency] = useState(1); // default fallback
+  
   const [filteredStops, setFilteredStops] = useState([]);
 
   const center = filteredStops.length > 0
@@ -33,7 +33,7 @@ const HotStoppagesMap = ({ hotStops, onClose }) => {
       try {
         const snapshot = await get(ref(db, 'config/minHotstopFrequency'));
         const min = snapshot.exists() ? snapshot.val() : 1;
-        setMinFrequency(min);
+        
 
         const filtered = hotStops.filter((stop) => stop.frequency >= min);
         setFilteredStops(filtered);

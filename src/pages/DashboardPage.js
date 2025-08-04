@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import '../styles/DashboardPage.css';
 import MapView from '../components/MapView';
 import HotStoppagesMap from '../components/HotStoppagesMap';
-import { storage } from '../services/firebase';
 import { useNavigate } from 'react-router-dom';
 import ioclLogo from '../assets/iocl-logo.png';
 

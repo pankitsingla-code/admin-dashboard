@@ -11,7 +11,6 @@ import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import { ref, get } from "firebase/database";
 import { db } from "../services/firebase";
-import { createPath } from "react-router-dom";
 
 // Fix Leaflet icon issue
 delete L.Icon.Default.prototype._getIconUrl;
@@ -48,7 +47,7 @@ const MapView = ({ data }) => {
   const [endCoord, setEndCoord] = useState(null);
   const [stoppages, setStoppages] = useState([]);
   const [deviations, setDeviations] = useState([]);
-  const [hotStoppages, setHotStoppages] = useState([]);
+ 
   const [highlightedStops, setHighlightedStops] = useState([]);
   const [frequencyThreshold, setFrequencyThreshold] = useState(30);
   const [deviationRadiusThreshold, setDeviationRadiusThreshold] = useState(200);
@@ -200,7 +199,7 @@ const MapView = ({ data }) => {
         const filtered = hotStops.filter(
           (s) => s.frequency >= frequencyThreshold
         );
-        setHotStoppages(filtered);
+        
 
         const matched = stops.filter((stop) =>
           filtered.some((hs) => {

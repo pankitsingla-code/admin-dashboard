@@ -1,0 +1,303 @@
+[debug] [2025-08-04T14:24:17.679Z] ----------------------------------------------------------------------
+[debug] [2025-08-04T14:24:17.680Z] Command:       C:\nodejs\node.exe C:\nodejs\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2025-08-04T14:24:17.681Z] CLI Version:   14.11.2
+[debug] [2025-08-04T14:24:17.681Z] Platform:      win32
+[debug] [2025-08-04T14:24:17.681Z] Node Version:  v20.19.4
+[debug] [2025-08-04T14:24:17.681Z] Time:          Mon Aug 04 2025 19:54:17 GMT+0530 (India Standard Time)
+[debug] [2025-08-04T14:24:17.681Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-08-04T14:24:17.821Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-08-04T14:24:17.821Z] > authorizing via signed-in user (pankitsingla@gmail.com)
+[debug] [2025-08-04T14:24:17.821Z] [iam] checking project grm-app-3d8ab for permissions ["cloudsql.databases.create","cloudsql.databases.update","cloudsql.instances.connect","cloudsql.instances.create","cloudsql.instances.get","cloudsql.instances.list","cloudsql.instances.update","cloudsql.users.create","firebase.projects.get","firebasedataconnect.connectors.create","firebasedataconnect.connectors.delete","firebasedataconnect.connectors.list","firebasedataconnect.connectors.update","firebasedataconnect.operations.get","firebasedataconnect.schemas.create","firebasedataconnect.schemas.delete","firebasedataconnect.schemas.list","firebasedataconnect.schemas.update","firebasedataconnect.services.create","firebasedataconnect.services.delete","firebasedataconnect.services.list","firebasedataconnect.services.update","firebasehosting.sites.update"]
+[debug] [2025-08-04T14:24:17.822Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:17.822Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:17.822Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/grm-app-3d8ab:testIamPermissions [none]
+[debug] [2025-08-04T14:24:17.823Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/grm-app-3d8ab:testIamPermissions x-goog-quota-user=projects/grm-app-3d8ab
+[debug] [2025-08-04T14:24:17.823Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/grm-app-3d8ab:testIamPermissions {"permissions":["cloudsql.databases.create","cloudsql.databases.update","cloudsql.instances.connect","cloudsql.instances.create","cloudsql.instances.get","cloudsql.instances.list","cloudsql.instances.update","cloudsql.users.create","firebase.projects.get","firebasedataconnect.connectors.create","firebasedataconnect.connectors.delete","firebasedataconnect.connectors.list","firebasedataconnect.connectors.update","firebasedataconnect.operations.get","firebasedataconnect.schemas.create","firebasedataconnect.schemas.delete","firebasedataconnect.schemas.list","firebasedataconnect.schemas.update","firebasedataconnect.services.create","firebasedataconnect.services.delete","firebasedataconnect.services.list","firebasedataconnect.services.update","firebasehosting.sites.update"]}
+[debug] [2025-08-04T14:24:19.872Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/grm-app-3d8ab:testIamPermissions 200
+[debug] [2025-08-04T14:24:19.872Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/grm-app-3d8ab:testIamPermissions {"permissions":["cloudsql.databases.create","cloudsql.databases.update","cloudsql.instances.connect","cloudsql.instances.create","cloudsql.instances.get","cloudsql.instances.list","cloudsql.instances.update","cloudsql.users.create","firebase.projects.get","firebasedataconnect.connectors.create","firebasedataconnect.connectors.delete","firebasedataconnect.connectors.list","firebasedataconnect.connectors.update","firebasedataconnect.operations.get","firebasedataconnect.schemas.create","firebasedataconnect.schemas.delete","firebasedataconnect.schemas.list","firebasedataconnect.schemas.update","firebasedataconnect.services.create","firebasedataconnect.services.delete","firebasedataconnect.services.list","firebasedataconnect.services.update","firebasehosting.sites.update"]}
+[debug] [2025-08-04T14:24:19.872Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:19.872Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:19.873Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/grm-app-3d8ab [none]
+[debug] [2025-08-04T14:24:20.581Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/grm-app-3d8ab 200
+[debug] [2025-08-04T14:24:20.581Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/grm-app-3d8ab {"projectId":"grm-app-3d8ab","projectNumber":"710488018410","displayName":"GRM-APP","name":"projects/grm-app-3d8ab","resources":{"hostingSite":"grm-app-3d8ab","realtimeDatabaseInstance":"grm-app-3d8ab-default-rtdb"},"state":"ACTIVE","etag":"1_47984324-f18f-43cc-a915-8901a4efc978"}
+[info] 
+[info] === Deploying to 'grm-app-3d8ab'...
+[info] 
+[info] i  deploying hosting, dataconnect 
+[debug] [2025-08-04T14:24:20.586Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:20.586Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:20.587Z] >>> [apiv2][query] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/grm-app-3d8ab/versions [none]
+[debug] [2025-08-04T14:24:20.587Z] >>> [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/grm-app-3d8ab/versions {"status":"CREATED","labels":{"deployment-tool":"cli-firebase"}}
+[debug] [2025-08-04T14:24:23.352Z] <<< [apiv2][status] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/grm-app-3d8ab/versions 200
+[debug] [2025-08-04T14:24:23.353Z] <<< [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/grm-app-3d8ab/versions {"name":"projects/710488018410/sites/grm-app-3d8ab/versions/9789f48443445224","status":"CREATED","config":{},"labels":{"deployment-tool":"cli-firebase"}}
+[debug] [2025-08-04T14:24:23.353Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:23.354Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:23.354Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/grm-app-3d8ab/billingInfo [none]
+[debug] [2025-08-04T14:24:25.295Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/grm-app-3d8ab/billingInfo 200
+[debug] [2025-08-04T14:24:25.295Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/grm-app-3d8ab/billingInfo {"name":"projects/grm-app-3d8ab/billingInfo","projectId":"grm-app-3d8ab","billingAccountName":"billingAccounts/019097-BA057E-222D65","billingEnabled":true}
+[info] i  dataconnect: ensuring required API firebasedataconnect.googleapis.com is enabled... 
+[info] i  dataconnect: ensuring required API sqladmin.googleapis.com is enabled... 
+[info] i  dataconnect: ensuring required API compute.googleapis.com is enabled... 
+[debug] [2025-08-04T14:24:25.299Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:25.299Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:25.300Z] >>> [apiv2][query] GET https://mobilesdk-pa.googleapis.com/v1/accessmanagement/tos:getStatus [none]
+[debug] [2025-08-04T14:24:26.638Z] <<< [apiv2][status] GET https://mobilesdk-pa.googleapis.com/v1/accessmanagement/tos:getStatus 200
+[debug] [2025-08-04T14:24:26.638Z] <<< [apiv2][body] GET https://mobilesdk-pa.googleapis.com/v1/accessmanagement/tos:getStatus {"overallStatus":"ACCEPTED","uTosStatus":{"tos":{"id":"firebase","tosId":"FIREBASE_UNIVERSAL"},"status":"ACCEPTED","acceptedVersion":7},"childTosStatus":[{"tos":{"id":"cloud","tosId":"CLOUD_PLATFORM"},"status":"ACCEPTED","acceptedVersion":38},{"tos":{"id":"firebase_b2b","tosId":"FIREBASE_B2B"},"status":"ACCEPTED","acceptedVersion":1},{"tos":{"id":"universal","tosId":"GOOGLE_APIS"},"status":"ACCEPTED","acceptedVersion":6}],"termsUrl":"https://firebase.google.com/terms","perServiceStatus":[{"tosId":"APP_CHECK","serviceStatus":{"tos":{"id":"app_check","tosId":"APP_CHECK"},"status":"ACCEPTED","acceptedVersion":3}},{"tosId":"APP_HOSTING_TOS","serviceStatus":{"tos":{"id":"app_hosting","tosId":"APP_HOSTING_TOS"},"status":"ACCEPTED","acceptedVersion":3}},{"tosId":"FIREBASE_DATA_CONNECT","serviceStatus":{"tos":{"id":"data_connect","tosId":"FIREBASE_DATA_CONNECT"},"status":"ACCEPTED","acceptedVersion":3}},{"tosId":"CORE_APPS","serviceStatus":{"tos":{"id":"core_apps","tosId":"CORE_APPS"},"status":"ACCEPTED","acceptedVersion":1}},{"tosId":"VERTEX_AI_IN_FIREBASE","serviceStatus":{"tos":{"id":"vertex_ai_in_firebase","tosId":"VERTEX_AI_IN_FIREBASE"},"status":"ACCEPTED","acceptedVersion":2}},{"tosId":"FIREBASE_CRASHLYTICS_APP_DISTRIBUTION","serviceStatus":{"tos":{"id":"firebase_crashlytics_app_distribution","tosId":"FIREBASE_CRASHLYTICS_APP_DISTRIBUTION"},"status":"ACCEPTED","acceptedVersion":4}},{"tosId":"GENERATIVE_LANGUAGE","serviceStatus":{"tos":{"id":"generative-language-api","tosId":"GENERATIVE_LANGUAGE"},"status":"NEVER_ACCEPTED","acceptedVersion":3}}]}
+[info] i  dataconnect: Preparing to deploy 
+[debug] [2025-08-04T14:24:26.657Z] defaultcredentials: writing to file C:\Users\PANKIT KUMAR\AppData\Roaming\firebase\pankitsingla_gmail_com_application_default_credentials.json
+[debug] [2025-08-04T14:24:30.672Z] I0804 19:54:30.618371   11668 build.go:55] No deployed sources found for service admin-dashboard
+I0804 19:54:30.651823   11668 control.go:84] [/emulator/admin-dashboard 56eb] UpdateResources(): done
+Schema: sources: schema\schema.gql [2088B] 
+Connector "default": sources: connector\mutations.gql [1301B] connector\queries.gql [1947B] 
+ {"metadata":{"emulator":{"name":"dataconnect"},"message":"I0804 19:54:30.618371   11668 build.go:55] No deployed sources found for service admin-dashboard\nI0804 19:54:30.651823   11668 control.go:84] [/emulator/admin-dashboard 56eb] UpdateResources(): done\nSchema: sources: schema\\schema.gql [2088B] \nConnector \"default\": sources: connector\\mutations.gql [1301B] connector\\queries.gql [1947B] \n"}}
+[info] i  dataconnect: Successfully prepared schema and connectors 
+[debug] [2025-08-04T14:24:30.673Z] {
+  "serviceInfos": [
+    {
+      "serviceName": "projects/grm-app-3d8ab/locations/us-central1/services/admin-dashboard",
+      "sourceDirectory": "D:\\React\\GRM_APP_Dashboard\\admin-dashboard\\dataconnect",
+      "schema": {
+        "name": "projects/grm-app-3d8ab/locations/us-central1/services/admin-dashboard/schemas/main",
+        "datasources": [
+          {
+            "postgresql": {
+              "database": "fdcdb",
+              "cloudSql": {
+                "instance": "projects/grm-app-3d8ab/locations/us-central1/instances/admin-dashboard-fdc"
+              }
+            }
+          }
+        ],
+        "source": {
+          "files": [
+            {
+              "path": "schema.gql",
+              "content": "# # Example schema for simple movie review app\n\n# # User table is keyed by Firebase Auth UID.\n# type User @table {\n#   # `@default(expr: \"auth.uid\")` sets it to Firebase Auth UID during insert and upsert.\n#   id: String! @default(expr: \"auth.uid\")\n#   username: String! @col(dataType: \"varchar(50)\")\n#   # The `user: User!` field in the Review table generates the following one-to-many query field.\n#   #  reviews_on_user: [Review!]!\n#   # The `Review` join table the following many-to-many query field.\n#   #  movies_via_Review: [Movie!]!\n# }\n\n# # Movie is keyed by a randomly generated UUID.\n# type Movie @table {\n#   # If you do not pass a 'key' to `@table`, Data Connect automatically adds the following 'id' column.\n#   # Feel free to uncomment and customize it.\n#   #  id: UUID! @default(expr: \"uuidV4()\")\n#   title: String!\n#   imageUrl: String!\n#   genre: String\n# }\n\n# # MovieMetadata is a metadata attached to a Movie.\n# # Movie <-> MovieMetadata is a one-to-one relationship\n# type MovieMetadata @table {\n#   # @unique ensures each Movie can only one MovieMetadata.\n#   movie: Movie! @unique\n#   # The movie field adds the following foreign key field. Feel free to uncomment and customize it.\n#   #  movieId: UUID!\n#   rating: Float\n#   releaseYear: Int\n#   description: String\n# }\n\n# # Reviews is a join table between User and Movie.\n# # It has a composite primary keys `userUid` and `movieId`.\n# # A user can leave reviews for many movies. A movie can have reviews from many users.\n# # User  <-> Review is a one-to-many relationship\n# # Movie <-> Review is a one-to-many relationship\n# # Movie <-> User is a many-to-many relationship\n# type Review @table(name: \"Reviews\", key: [\"movie\", \"user\"]) {\n#   user: User!\n#   # The user field adds the following foreign key field. Feel free to uncomment and customize it.\n#   #  userUid: String!\n#   movie: Movie!\n#   # The movie field adds the following foreign key field. Feel free to uncomment and customize it.\n#   #  movieId: UUID!\n#   rating: Int\n#   reviewText: String\n#   reviewDate: Date! @default(expr: \"request.time\")\n# }\n"
+            }
+          ]
+        }
+      },
+      "dataConnectYaml": {
+        "specVersion": "v1",
+        "serviceId": "admin-dashboard",
+        "location": "us-central1",
+        "schema": {
+          "source": "./schema",
+          "datasource": {
+            "postgresql": {
+              "database": "fdcdb",
+              "cloudSql": {
+                "instanceId": "admin-dashboard-fdc"
+              }
+            }
+          }
+        },
+        "connectorDirs": [
+          "./connector"
+        ]
+      },
+      "connectorInfo": [
+        {
+          "directory": "D:\\React\\GRM_APP_Dashboard\\admin-dashboard\\dataconnect\\connector",
+          "connectorYaml": {
+            "connectorId": "default",
+            "generate": {
+              "javascriptSdk": {
+                "outputDir": "..\\..\\dataconnect-generated\\js\\default-connector",
+                "package": "@firebasegen/default-connector",
+                "packageJsonDir": "..\\..",
+                "react": true
+              }
+            }
+          },
+          "connector": {
+            "name": "projects/grm-app-3d8ab/locations/us-central1/services/admin-dashboard/connectors/default",
+            "source": {
+              "files": [
+                {
+                  "path": "mutations.gql",
+                  "content": "# # Example mutations for a simple movie app\n\n# # Create a movie based on user input\n# mutation CreateMovie($title: String!, $genre: String!, $imageUrl: String!)\n# @auth(level: USER_EMAIL_VERIFIED, insecureReason: \"Any email verified users can create a new movie.\") {\n#   movie_insert(data: { title: $title, genre: $genre, imageUrl: $imageUrl })\n# }\n\n# # Upsert (update or insert) a user's username based on their auth.uid\n# mutation UpsertUser($username: String!) @auth(level: USER) {\n#   # The \"auth.uid\" server value ensures that users can only register their own user.\n#   user_upsert(data: { id_expr: \"auth.uid\", username: $username })\n# }\n\n# # Add a review for a movie\n# mutation AddReview($movieId: UUID!, $rating: Int!, $reviewText: String!)\n# @auth(level: USER) {\n#   review_upsert(\n#     data: {\n#       userId_expr: \"auth.uid\"\n#       movieId: $movieId\n#       rating: $rating\n#       reviewText: $reviewText\n#       # reviewDate defaults to today in the schema. No need to set it manually.\n#     }\n#   )\n# }\n\n# # Logged in user can delete their review for a movie\n# mutation DeleteReview($movieId: UUID!) @auth(level: USER) {\n#   # The \"auth.uid\" server value ensures that users can only delete their own reviews.\n#   review_delete(key: { userId_expr: \"auth.uid\", movieId: $movieId })\n# }\n"
+                },
+                {
+                  "path": "queries.gql",
+                  "content": "# # Example queries for a simple movie app.\n\n# # @auth() directives control who can call each operation.\n# # Anyone should be able to list all movies, so the auth level is set to PUBLIC\n# query ListMovies @auth(level: PUBLIC, insecureReason: \"Anyone can list all movies.\") {\n#   movies {\n#     id\n#     title\n#     imageUrl\n#     genre\n#   }\n# }\n\n# # List all users, only admins should be able to list all users, so we use NO_ACCESS\n# query ListUsers @auth(level: NO_ACCESS) {\n#   users {\n#     id\n#     username\n#   }\n# }\n\n# # Logged in users can list all their reviews and movie titles associated with the review\n# # Since the query uses the uid of the current authenticated user, we set auth level to USER\n# query ListUserReviews @auth(level: USER) {\n#   user(key: { id_expr: \"auth.uid\" }) {\n#     id\n#     username\n#     # <field>_on_<foreign_key_field> makes it easy to grab info from another table\n#     # Here, we use it to grab all the reviews written by the user.\n#     reviews: reviews_on_user {\n#       rating\n#       reviewDate\n#       reviewText\n#       movie {\n#         id\n#         title\n#       }\n#     }\n#   }\n# }\n\n# # Get movie by id\n# query GetMovieById($id: UUID!) @auth(level: PUBLIC, insecureReason: \"Anyone can get a movie by id.\") {\n#   movie(id: $id) {\n#     id\n#     title\n#     imageUrl\n#     genre\n#     metadata: movieMetadata_on_movie {\n#       rating\n#       releaseYear\n#       description\n#     }\n#     reviews: reviews_on_movie {\n#       reviewText\n#       reviewDate\n#       rating\n#       user {\n#         id\n#         username\n#       }\n#     }\n#   }\n# }\n\n# # Search for movies, actors, and reviews\n# query SearchMovie($titleInput: String, $genre: String) @auth(level: PUBLIC, insecureReason: \"Anyone can search for movies.\") {\n#   movies(\n#     where: {\n#       _and: [{ genre: { eq: $genre } }, { title: { contains: $titleInput } }]\n#     }\n#   ) {\n#     id\n#     title\n#     genre\n#     imageUrl\n#   }\n# }\n"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "deploymentMetadata": {
+        "primaryDataSource": {
+          "postgres": {
+            "requiredExtensions": null
+          }
+        }
+      }
+    }
+  ]
+}
+[info] i  hosting[grm-app-3d8ab]: beginning deploy... 
+[info] i  hosting[grm-app-3d8ab]: found 2 files in y 
+[debug] [2025-08-04T14:24:30.684Z] [hosting] uploading with 200 concurrency
+[debug] [2025-08-04T14:24:30.685Z] [hosting] hash cache [eQ] not populated
+[debug] [2025-08-04T14:24:30.693Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:30.693Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:30.694Z] [hosting] hash cache [eQ] stored for 2 files
+[debug] [2025-08-04T14:24:30.694Z] [hosting][hash queue][FINAL] {"max":6,"min":6,"avg":6,"active":0,"complete":2,"success":2,"errored":0,"retried":0,"total":2,"elapsed":8}
+[debug] [2025-08-04T14:24:30.694Z] >>> [apiv2][query] POST https://firebasehosting.googleapis.com/v1beta1/projects/710488018410/sites/grm-app-3d8ab/versions/9789f48443445224:populateFiles [none]
+[debug] [2025-08-04T14:24:30.694Z] >>> [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/710488018410/sites/grm-app-3d8ab/versions/9789f48443445224:populateFiles {"files":{"/index.html":"ad79476ba6e4a2cb4a8f99e19bd004f6dfbe4d695209f30e80bf2818535b8a79","/404.html":"762bf484ba67404bd1a3b181546ea28d60dfddf18e9dd4795d8d25bcf3c1a890"}}
+[debug] [2025-08-04T14:24:32.056Z] <<< [apiv2][status] POST https://firebasehosting.googleapis.com/v1beta1/projects/710488018410/sites/grm-app-3d8ab/versions/9789f48443445224:populateFiles 200
+[debug] [2025-08-04T14:24:32.056Z] <<< [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/710488018410/sites/grm-app-3d8ab/versions/9789f48443445224:populateFiles {"uploadRequiredHashes":["762bf484ba67404bd1a3b181546ea28d60dfddf18e9dd4795d8d25bcf3c1a890","ad79476ba6e4a2cb4a8f99e19bd004f6dfbe4d695209f30e80bf2818535b8a79"],"uploadUrl":"https://upload-firebasehosting.googleapis.com/upload/sites/grm-app-3d8ab/versions/9789f48443445224/files"}
+[debug] [2025-08-04T14:24:32.058Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:32.058Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:32.059Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:32.059Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:32.059Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/grm-app-3d8ab/versions/9789f48443445224/files/762bf484ba67404bd1a3b181546ea28d60dfddf18e9dd4795d8d25bcf3c1a890 [none]
+[debug] [2025-08-04T14:24:32.059Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/grm-app-3d8ab/versions/9789f48443445224/files/762bf484ba67404bd1a3b181546ea28d60dfddf18e9dd4795d8d25bcf3c1a890 [stream]
+[debug] [2025-08-04T14:24:32.062Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/grm-app-3d8ab/versions/9789f48443445224/files/ad79476ba6e4a2cb4a8f99e19bd004f6dfbe4d695209f30e80bf2818535b8a79 [none]
+[debug] [2025-08-04T14:24:32.063Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/grm-app-3d8ab/versions/9789f48443445224/files/ad79476ba6e4a2cb4a8f99e19bd004f6dfbe4d695209f30e80bf2818535b8a79 [stream]
+[debug] [2025-08-04T14:24:32.065Z] [hosting][populate queue][FINAL] {"max":1367,"min":1367,"avg":1367,"active":0,"complete":1,"success":1,"errored":0,"retried":0,"total":1,"elapsed":1373}
+[debug] [2025-08-04T14:24:32.065Z] [hosting] uploads queued: 2
+[debug] [2025-08-04T14:24:33.997Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/grm-app-3d8ab/versions/9789f48443445224/files/ad79476ba6e4a2cb4a8f99e19bd004f6dfbe4d695209f30e80bf2818535b8a79 200
+[debug] [2025-08-04T14:24:33.997Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/grm-app-3d8ab/versions/9789f48443445224/files/ad79476ba6e4a2cb4a8f99e19bd004f6dfbe4d695209f30e80bf2818535b8a79 [stream]
+[debug] [2025-08-04T14:24:33.998Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/grm-app-3d8ab/versions/9789f48443445224/files/762bf484ba67404bd1a3b181546ea28d60dfddf18e9dd4795d8d25bcf3c1a890 200
+[debug] [2025-08-04T14:24:33.998Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/grm-app-3d8ab/versions/9789f48443445224/files/762bf484ba67404bd1a3b181546ea28d60dfddf18e9dd4795d8d25bcf3c1a890 [stream]
+[debug] [2025-08-04T14:24:33.999Z] [hosting][upload queue][FINAL] {"max":1941,"min":1939,"avg":1940,"active":0,"complete":2,"success":2,"errored":0,"retried":0,"total":2,"elapsed":1942}
+[info] +  hosting[grm-app-3d8ab]: file upload complete 
+[debug] [2025-08-04T14:24:34.001Z] [hosting] deploy completed after 3325ms
+[debug] [2025-08-04T14:24:34.001Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:34.001Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:34.001Z] >>> [apiv2][query] GET https://firebasedataconnect.googleapis.com/v1/projects/grm-app-3d8ab/locations/-/services [none]
+[debug] [2025-08-04T14:24:36.140Z] <<< [apiv2][status] GET https://firebasedataconnect.googleapis.com/v1/projects/grm-app-3d8ab/locations/-/services 200
+[debug] [2025-08-04T14:24:36.140Z] <<< [apiv2][body] GET https://firebasedataconnect.googleapis.com/v1/projects/grm-app-3d8ab/locations/-/services {}
+[debug] [2025-08-04T14:24:36.141Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:36.141Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:36.142Z] >>> [apiv2][query] POST https://firebasedataconnect.googleapis.com/v1/projects/grm-app-3d8ab/locations/us-central1/services service_id=admin-dashboard
+[debug] [2025-08-04T14:24:36.143Z] >>> [apiv2][body] POST https://firebasedataconnect.googleapis.com/v1/projects/grm-app-3d8ab/locations/us-central1/services {"name":"projects/grm-app-3d8ab/locations/us-central1/services/admin-dashboard"}
+[debug] [2025-08-04T14:24:39.126Z] <<< [apiv2][status] POST https://firebasedataconnect.googleapis.com/v1/projects/grm-app-3d8ab/locations/us-central1/services 200
+[debug] [2025-08-04T14:24:39.126Z] <<< [apiv2][body] POST https://firebasedataconnect.googleapis.com/v1/projects/grm-app-3d8ab/locations/us-central1/services {"name":"projects/grm-app-3d8ab/locations/us-central1/operations/operation-1754317478360-63b8ade1ef467-8324e2eb-18e43110","metadata":{"@type":"type.googleapis.com/google.firebase.dataconnect.v1.OperationMetadata","createTime":"2025-08-04T14:24:39.586523442Z","target":"projects/grm-app-3d8ab/locations/us-central1/services/admin-dashboard","verb":"create","requestedCancellation":false,"apiVersion":"v1"},"done":false}
+[debug] [2025-08-04T14:24:39.127Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:39.127Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:39.128Z] >>> [apiv2][query] GET https://firebasedataconnect.googleapis.com/v1/projects/grm-app-3d8ab/locations/us-central1/operations/operation-1754317478360-63b8ade1ef467-8324e2eb-18e43110 [none]
+[debug] [2025-08-04T14:24:39.941Z] <<< [apiv2][status] GET https://firebasedataconnect.googleapis.com/v1/projects/grm-app-3d8ab/locations/us-central1/operations/operation-1754317478360-63b8ade1ef467-8324e2eb-18e43110 200
+[debug] [2025-08-04T14:24:39.941Z] <<< [apiv2][body] GET https://firebasedataconnect.googleapis.com/v1/projects/grm-app-3d8ab/locations/us-central1/operations/operation-1754317478360-63b8ade1ef467-8324e2eb-18e43110 {"name":"projects/grm-app-3d8ab/locations/us-central1/operations/operation-1754317478360-63b8ade1ef467-8324e2eb-18e43110","metadata":{"@type":"type.googleapis.com/google.firebase.dataconnect.v1.OperationMetadata","createTime":"2025-08-04T14:24:39.586523442Z","target":"projects/grm-app-3d8ab/locations/us-central1/services/admin-dashboard","verb":"create","requestedCancellation":false,"apiVersion":"v1"},"done":false}
+[debug] [2025-08-04T14:24:40.445Z] [LRO Poller] Retrying task index 0
+[debug] [2025-08-04T14:24:40.446Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:40.446Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:40.446Z] >>> [apiv2][query] GET https://firebasedataconnect.googleapis.com/v1/projects/grm-app-3d8ab/locations/us-central1/operations/operation-1754317478360-63b8ade1ef467-8324e2eb-18e43110 [none]
+[debug] [2025-08-04T14:24:40.858Z] <<< [apiv2][status] GET https://firebasedataconnect.googleapis.com/v1/projects/grm-app-3d8ab/locations/us-central1/operations/operation-1754317478360-63b8ade1ef467-8324e2eb-18e43110 200
+[debug] [2025-08-04T14:24:40.858Z] <<< [apiv2][body] GET https://firebasedataconnect.googleapis.com/v1/projects/grm-app-3d8ab/locations/us-central1/operations/operation-1754317478360-63b8ade1ef467-8324e2eb-18e43110 {"name":"projects/grm-app-3d8ab/locations/us-central1/operations/operation-1754317478360-63b8ade1ef467-8324e2eb-18e43110","metadata":{"@type":"type.googleapis.com/google.firebase.dataconnect.v1.OperationMetadata","createTime":"2025-08-04T14:24:39.586523442Z","endTime":"2025-08-04T14:24:41.008390494Z","target":"projects/grm-app-3d8ab/locations/us-central1/services/admin-dashboard","verb":"create","requestedCancellation":false,"apiVersion":"v1"},"done":true,"response":{"@type":"type.googleapis.com/google.firebase.dataconnect.v1.Service","name":"projects/grm-app-3d8ab/locations/us-central1/services/admin-dashboard","createTime":"2025-08-04T14:24:39.580813162Z","updateTime":"2025-08-04T14:24:39.580813162Z","uid":"6c669e6b-55e5-44d9-93d9-187f11f93586","reconciling":false,"etag":"YFMs095JIXyTUyKrmjLbC_5IaHlYzwxRAIsw1WPLYLo"}}
+[info] +  dataconnect: Created service projects/grm-app-3d8ab/locations/us-central1/services/admin-dashboard 
+[info] i  dataconnect: Checking for CloudSQL resources... 
+[debug] [2025-08-04T14:24:40.862Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:40.862Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:40.862Z] >>> [apiv2][query] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances/admin-dashboard-fdc [none]
+[debug] [2025-08-04T14:24:42.089Z] <<< [apiv2][status] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances/admin-dashboard-fdc 404
+[debug] [2025-08-04T14:24:42.090Z] <<< [apiv2][body] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances/admin-dashboard-fdc {"error":{"code":404,"message":"The Cloud SQL instance does not exist.","errors":[{"message":"The Cloud SQL instance does not exist.","domain":"global","reason":"instanceDoesNotExist"}]}}
+[warn] !  dataconnect: Cloud SQL instances created via the Firebase CLI do not support customer managed encryption keys.
+If you'd like to use a CMEK to encrypt your data, first create a CMEK encrypted instance (https://cloud.google.com/sql/docs/postgres/configure-cmek#createcmekinstance).
+Then, edit your `dataconnect.yaml` file to use the encrypted instance and redeploy. 
+[info] i  dataconnect: Checking Cloud SQL no cost trial eligibility... 
+[debug] [2025-08-04T14:24:42.093Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:42.093Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:42.094Z] >>> [apiv2][query] GET https://monitoring.googleapis.com/v3/projects/grm-app-3d8ab/timeSeries/ filter=metric.type%3D%22serviceruntime.googleapis.com%2Fquota%2Fallocation%2Fusage%22+AND+metric.label.quota_metric+%3D+%22sqladmin.googleapis.com%2Ffdc_lifetime_free_trial_per_project%22&interval.endTime=2025-08-04T14%3A24%3A42.093Z&interval.startTime=2025-07-28T14%3A24%3A42.093Z
+[debug] [2025-08-04T14:24:44.443Z] <<< [apiv2][status] GET https://monitoring.googleapis.com/v3/projects/grm-app-3d8ab/timeSeries/ 200
+[debug] [2025-08-04T14:24:44.443Z] <<< [apiv2][body] GET https://monitoring.googleapis.com/v3/projects/grm-app-3d8ab/timeSeries/ {"unit":"1"}
+[info] +  dataconnect: CloudSQL no cost trial available! 
+[info] i  dataconnect:  
+[debug] [2025-08-04T14:24:44.445Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:44.446Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:44.446Z] >>> [apiv2][query] POST https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances [none]
+[debug] [2025-08-04T14:24:44.446Z] >>> [apiv2][body] POST https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances {"name":"admin-dashboard-fdc","region":"us-central1","databaseVersion":"POSTGRES_15","settings":{"tier":"db-f1-micro","edition":"ENTERPRISE","ipConfiguration":{"authorizedNetworks":[]},"enableGoogleMlIntegration":false,"databaseFlags":[{"name":"cloudsql.iam_authentication","value":"on"}],"storageAutoResize":false,"userLabels":{"firebase-data-connect":"ft"},"insightsConfig":{"queryInsightsEnabled":true,"queryPlansPerMinute":5,"queryStringLength":1024}}}
+[debug] [2025-08-04T14:24:48.440Z] <<< [apiv2][status] POST https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances 200
+[debug] [2025-08-04T14:24:48.440Z] <<< [apiv2][body] POST https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances {"kind":"sql#operation","targetLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances/admin-dashboard-fdc","status":"PENDING","user":"PANKITSINGLA@gmail.com","insertTime":"2025-08-04T14:24:48.709Z","operationType":"CREATE","name":"48ed9aae-46b9-4630-a857-a5dc00000032","targetId":"admin-dashboard-fdc","selfLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032","targetProject":"grm-app-3d8ab"}
+[debug] [2025-08-04T14:24:48.440Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:48.440Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:48.440Z] >>> [apiv2][query] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 [none]
+[debug] [2025-08-04T14:24:49.258Z] <<< [apiv2][status] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 200
+[debug] [2025-08-04T14:24:49.258Z] <<< [apiv2][body] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 {"kind":"sql#operation","targetLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances/admin-dashboard-fdc","status":"RUNNING","user":"PANKITSINGLA@gmail.com","insertTime":"2025-08-04T14:24:48.709Z","startTime":"2025-08-04T14:24:48.847Z","operationType":"CREATE","name":"48ed9aae-46b9-4630-a857-a5dc00000032","targetId":"admin-dashboard-fdc","selfLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032","targetProject":"grm-app-3d8ab"}
+[debug] [2025-08-04T14:24:49.763Z] [LRO Poller] Retrying task index 0
+[debug] [2025-08-04T14:24:49.763Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:49.764Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:49.764Z] >>> [apiv2][query] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 [none]
+[debug] [2025-08-04T14:24:50.485Z] <<< [apiv2][status] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 200
+[debug] [2025-08-04T14:24:50.486Z] <<< [apiv2][body] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 {"kind":"sql#operation","targetLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances/admin-dashboard-fdc","status":"RUNNING","user":"PANKITSINGLA@gmail.com","insertTime":"2025-08-04T14:24:48.709Z","startTime":"2025-08-04T14:24:48.847Z","operationType":"CREATE","name":"48ed9aae-46b9-4630-a857-a5dc00000032","targetId":"admin-dashboard-fdc","selfLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032","targetProject":"grm-app-3d8ab"}
+[debug] [2025-08-04T14:24:51.490Z] [LRO Poller] Retrying task index 0
+[debug] [2025-08-04T14:24:51.491Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:51.491Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:51.492Z] >>> [apiv2][query] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 [none]
+[debug] [2025-08-04T14:24:52.226Z] <<< [apiv2][status] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 200
+[debug] [2025-08-04T14:24:52.226Z] <<< [apiv2][body] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 {"kind":"sql#operation","targetLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances/admin-dashboard-fdc","status":"RUNNING","user":"PANKITSINGLA@gmail.com","insertTime":"2025-08-04T14:24:48.709Z","startTime":"2025-08-04T14:24:48.847Z","operationType":"CREATE","name":"48ed9aae-46b9-4630-a857-a5dc00000032","targetId":"admin-dashboard-fdc","selfLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032","targetProject":"grm-app-3d8ab"}
+[debug] [2025-08-04T14:24:54.230Z] [LRO Poller] Retrying task index 0
+[debug] [2025-08-04T14:24:54.231Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:54.231Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:54.231Z] >>> [apiv2][query] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 [none]
+[debug] [2025-08-04T14:24:54.992Z] <<< [apiv2][status] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 200
+[debug] [2025-08-04T14:24:54.993Z] <<< [apiv2][body] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 {"kind":"sql#operation","targetLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances/admin-dashboard-fdc","status":"RUNNING","user":"PANKITSINGLA@gmail.com","insertTime":"2025-08-04T14:24:48.709Z","startTime":"2025-08-04T14:24:48.847Z","operationType":"CREATE","name":"48ed9aae-46b9-4630-a857-a5dc00000032","targetId":"admin-dashboard-fdc","selfLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032","targetProject":"grm-app-3d8ab"}
+[debug] [2025-08-04T14:24:59.002Z] [LRO Poller] Retrying task index 0
+[debug] [2025-08-04T14:24:59.003Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:59.003Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:24:59.003Z] >>> [apiv2][query] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 [none]
+[debug] [2025-08-04T14:24:59.888Z] <<< [apiv2][status] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 200
+[debug] [2025-08-04T14:24:59.888Z] <<< [apiv2][body] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 {"kind":"sql#operation","targetLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances/admin-dashboard-fdc","status":"RUNNING","user":"PANKITSINGLA@gmail.com","insertTime":"2025-08-04T14:24:48.709Z","startTime":"2025-08-04T14:24:48.847Z","operationType":"CREATE","name":"48ed9aae-46b9-4630-a857-a5dc00000032","targetId":"admin-dashboard-fdc","selfLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032","targetProject":"grm-app-3d8ab"}
+[debug] [2025-08-04T14:25:07.901Z] [LRO Poller] Retrying task index 0
+[debug] [2025-08-04T14:25:07.902Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:25:07.903Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:25:07.903Z] >>> [apiv2][query] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 [none]
+[debug] [2025-08-04T14:25:08.917Z] <<< [apiv2][status] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 200
+[debug] [2025-08-04T14:25:08.917Z] <<< [apiv2][body] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 {"kind":"sql#operation","targetLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances/admin-dashboard-fdc","status":"RUNNING","user":"PANKITSINGLA@gmail.com","insertTime":"2025-08-04T14:24:48.709Z","startTime":"2025-08-04T14:24:48.847Z","operationType":"CREATE","name":"48ed9aae-46b9-4630-a857-a5dc00000032","targetId":"admin-dashboard-fdc","selfLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032","targetProject":"grm-app-3d8ab"}
+[debug] [2025-08-04T14:25:24.923Z] [LRO Poller] Retrying task index 0
+[debug] [2025-08-04T14:25:24.924Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:25:24.924Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:25:24.924Z] >>> [apiv2][query] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 [none]
+[debug] [2025-08-04T14:25:26.020Z] <<< [apiv2][status] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 200
+[debug] [2025-08-04T14:25:26.020Z] <<< [apiv2][body] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 {"kind":"sql#operation","targetLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances/admin-dashboard-fdc","status":"RUNNING","user":"PANKITSINGLA@gmail.com","insertTime":"2025-08-04T14:24:48.709Z","startTime":"2025-08-04T14:24:48.847Z","operationType":"CREATE","name":"48ed9aae-46b9-4630-a857-a5dc00000032","targetId":"admin-dashboard-fdc","selfLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032","targetProject":"grm-app-3d8ab"}
+[debug] [2025-08-04T14:25:58.040Z] [LRO Poller] Retrying task index 0
+[debug] [2025-08-04T14:25:58.040Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:25:58.040Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:25:58.041Z] >>> [apiv2][query] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 [none]
+[debug] [2025-08-04T14:25:59.094Z] <<< [apiv2][status] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 200
+[debug] [2025-08-04T14:25:59.094Z] <<< [apiv2][body] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 {"kind":"sql#operation","targetLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances/admin-dashboard-fdc","status":"RUNNING","user":"PANKITSINGLA@gmail.com","insertTime":"2025-08-04T14:24:48.709Z","startTime":"2025-08-04T14:24:48.847Z","operationType":"CREATE","name":"48ed9aae-46b9-4630-a857-a5dc00000032","targetId":"admin-dashboard-fdc","selfLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032","targetProject":"grm-app-3d8ab"}
+[debug] [2025-08-04T14:26:59.102Z] [LRO Poller] Retrying task index 0
+[debug] [2025-08-04T14:26:59.103Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:26:59.103Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:26:59.103Z] >>> [apiv2][query] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 [none]
+[debug] [2025-08-04T14:27:00.022Z] <<< [apiv2][status] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 200
+[debug] [2025-08-04T14:27:00.022Z] <<< [apiv2][body] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 {"kind":"sql#operation","targetLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances/admin-dashboard-fdc","status":"RUNNING","user":"PANKITSINGLA@gmail.com","insertTime":"2025-08-04T14:24:48.709Z","startTime":"2025-08-04T14:24:48.847Z","operationType":"CREATE","name":"48ed9aae-46b9-4630-a857-a5dc00000032","targetId":"admin-dashboard-fdc","selfLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032","targetProject":"grm-app-3d8ab"}
+[debug] [2025-08-04T14:28:00.034Z] [LRO Poller] Retrying task index 0
+[debug] [2025-08-04T14:28:00.034Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:28:00.035Z] Checked if tokens are valid: true, expires at: 1754318598160
+[debug] [2025-08-04T14:28:00.035Z] >>> [apiv2][query] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 [none]
+[debug] [2025-08-04T14:28:01.056Z] <<< [apiv2][status] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 200
+[debug] [2025-08-04T14:28:01.056Z] <<< [apiv2][body] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 {"kind":"sql#operation","targetLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances/admin-dashboard-fdc","status":"RUNNING","user":"PANKITSINGLA@gmail.com","insertTime":"2025-08-04T14:24:48.709Z","startTime":"2025-08-04T14:24:48.847Z","operationType":"CREATE","name":"48ed9aae-46b9-4630-a857-a5dc00000032","targetId":"admin-dashboard-fdc","selfLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032","targetProject":"grm-app-3d8ab"}
+[debug] [2025-08-04T14:29:01.071Z] [LRO Poller] Retrying task index 0
+[debug] [2025-08-04T14:29:01.072Z] Checked if tokens are valid: false, expires at: 1754318598160
+[debug] [2025-08-04T14:29:01.073Z] Checked if tokens are valid: false, expires at: 1754318598160
+[debug] [2025-08-04T14:29:01.074Z] > refreshing access token with scopes: []
+[debug] [2025-08-04T14:29:01.076Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-08-04T14:29:01.076Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-08-04T14:29:01.504Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-08-04T14:29:01.504Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-08-04T14:29:01.527Z] >>> [apiv2][query] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 [none]
+[debug] [2025-08-04T14:29:02.631Z] <<< [apiv2][status] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 200
+[debug] [2025-08-04T14:29:02.631Z] <<< [apiv2][body] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 {"kind":"sql#operation","targetLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances/admin-dashboard-fdc","status":"RUNNING","user":"PANKITSINGLA@gmail.com","insertTime":"2025-08-04T14:24:48.709Z","startTime":"2025-08-04T14:24:48.847Z","operationType":"CREATE","name":"48ed9aae-46b9-4630-a857-a5dc00000032","targetId":"admin-dashboard-fdc","selfLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032","targetProject":"grm-app-3d8ab"}
+[debug] [2025-08-04T14:30:02.637Z] [LRO Poller] Retrying task index 0
+[debug] [2025-08-04T14:30:02.638Z] Checked if tokens are valid: true, expires at: 1754321340504
+[debug] [2025-08-04T14:30:02.639Z] Checked if tokens are valid: true, expires at: 1754321340504
+[debug] [2025-08-04T14:30:02.639Z] >>> [apiv2][query] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 [none]
+[debug] [2025-08-04T14:30:03.937Z] <<< [apiv2][status] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 200
+[debug] [2025-08-04T14:30:03.938Z] <<< [apiv2][body] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 {"kind":"sql#operation","targetLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances/admin-dashboard-fdc","status":"RUNNING","user":"PANKITSINGLA@gmail.com","insertTime":"2025-08-04T14:24:48.709Z","startTime":"2025-08-04T14:24:48.847Z","operationType":"CREATE","name":"48ed9aae-46b9-4630-a857-a5dc00000032","targetId":"admin-dashboard-fdc","selfLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032","targetProject":"grm-app-3d8ab"}
+[debug] [2025-08-04T14:31:03.940Z] [LRO Poller] Retrying task index 0
+[debug] [2025-08-04T14:31:03.941Z] Checked if tokens are valid: true, expires at: 1754321340504
+[debug] [2025-08-04T14:31:03.941Z] Checked if tokens are valid: true, expires at: 1754321340504
+[debug] [2025-08-04T14:31:03.941Z] >>> [apiv2][query] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 [none]
+[debug] [2025-08-04T14:31:04.968Z] <<< [apiv2][status] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 200
+[debug] [2025-08-04T14:31:04.968Z] <<< [apiv2][body] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 {"kind":"sql#operation","targetLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances/admin-dashboard-fdc","status":"RUNNING","user":"PANKITSINGLA@gmail.com","insertTime":"2025-08-04T14:24:48.709Z","startTime":"2025-08-04T14:24:48.847Z","operationType":"CREATE","name":"48ed9aae-46b9-4630-a857-a5dc00000032","targetId":"admin-dashboard-fdc","selfLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032","targetProject":"grm-app-3d8ab"}
+[debug] [2025-08-04T14:32:04.970Z] [LRO Poller] Retrying task index 0
+[debug] [2025-08-04T14:32:04.970Z] Checked if tokens are valid: true, expires at: 1754321340504
+[debug] [2025-08-04T14:32:04.971Z] Checked if tokens are valid: true, expires at: 1754321340504
+[debug] [2025-08-04T14:32:04.971Z] >>> [apiv2][query] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 [none]
+[debug] [2025-08-04T14:32:05.920Z] <<< [apiv2][status] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 200
+[debug] [2025-08-04T14:32:05.920Z] <<< [apiv2][body] GET https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032 {"kind":"sql#operation","targetLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/instances/admin-dashboard-fdc","status":"RUNNING","user":"PANKITSINGLA@gmail.com","insertTime":"2025-08-04T14:24:48.709Z","startTime":"2025-08-04T14:24:48.847Z","operationType":"CREATE","name":"48ed9aae-46b9-4630-a857-a5dc00000032","targetId":"admin-dashboard-fdc","selfLink":"https://sqladmin.googleapis.com/v1/projects/grm-app-3d8ab/operations/48ed9aae-46b9-4630-a857-a5dc00000032","targetProject":"grm-app-3d8ab"}
